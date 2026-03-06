@@ -1,0 +1,2026 @@
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1er TRIMESTRE 2025
+CCAA · PROVINCIAS · CAPITALES
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Índice
+1. Contenido del informe 3
+.....................................................................................................................................................................................................
+2. Resumen ejecutivo 4
+.......................................................................................................................................................................................................................................
+3. Evolución de valores 12
+..............................................................................................................................................................................................................................
+Mapa y tablas de valores medios por CCAA ..................................................................................................................12
+Mapa y tablas de valores medios por PROVINCIAS .....................................................................................................14
+Mapa y tablas de valores medios por CAPITALES ........................................................................................................17
+Otros municipios principales ..............................................................................................................................................20
+Análisis detallado por distritos en las 6 mayores capitales ......................................................................................21
+Madrid .................................................................................................................................................................................21
+Barcelona ............................................................................................................................................................................22
+Valencia ...............................................................................................................................................................................23
+Sevilla ...................................................................................................................................................................................24
+Zaragoza .............................................................................................................................................................................25
+Málaga ................................................................................................................................................................................26
+4. Indicadores financieros 27
+.....................................................................................................................................................................................................................
+Mapa de hipoteca media por CCAA y provincias ....................................................................................................... 27
+Mapa de cuota hipotecaria mensual por CCAA y provincias ..................................................................................28
+Mapa de esfuerzo teórico anual por CCAA y provincias .......................................................................................... 29
+Mapas de esfuerzo teórico anual por distritos en las 6 mayores capitales ........................................................30
+5. Indicadores de actividad 31
+................................................................................................................................................................................................................
+Actividad promotora y compraventas relativas por provincias ..............................................................................31
+6. Notas metodológicas 32
+...........................................................................................................................................................................................................................
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 2
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+1 · CONTENIDO DEL INFORME
+El documento trata de realizar una radiografía de la situación del mercado residencial, partiendo de la evolución de precios con información
+procedente de las tasaciones realizadas por Tinsa, completada con otros indicadores financieros y de actividad.
+El documento recoge la evolución del valor unitario de mercado de las viviendas en cada una de las Comunidades Autónomas, provincias, y
+capitales del Estado español. Dicha evolución se refleja a través de un conjunto de series de precios que denominamos Tinsa IMIE Mercados
+Locales.
+Los índices tienen un mayor nivel de desagregación que los índices de Tinsa IMIE Grandes Mercados, cuyo índice general y sus cinco índices
+zonales representan mercados geográficos mucho más genéricos. Otra diferencia importante entre ambos radica en su periodicidad: los Tinsa
+IMIE Mercados Locales se obtienen trimestralmente frente a la producción mensual de los Tinsa IMIE Grandes Mercados.
+Los datos trimestrales presentados en este informe son provisionales y muestran resultados a cierre de la tercera semana del último mes del
+trimestre, de forma que pueden surgir ligeras modificaciones con respecto al dato definitivo.
+Por lo demás, toda la información procede de la misma base de datos. Las series comparten metodología resultando perfectamente comparables.
+El dato trimestral del índice general se obtiene promediando los correspondientes datos mensuales.
+Por otra parte, se desciende hasta el nivel de distrito en las Grandes Capitales (Madrid, Barcelona, Valencia, Sevilla, Zaragoza y Málaga) donde,
+entre otra información relativa a la actividad del mercado inmobiliario residencial, se ofrecen mapas temáticos que representan en una escala
+predefinida los niveles de precio en €/m2 de cada distrito y su variación interanual.
+Como complemento a la situación de los precios, el informe aporta información adicional de interés para analizar el mercado, como es la
+referente a hipotecas y esfuerzo financiero.
+El contenido del informe se ha distribuido en cinco grandes bloques:
+1 · Resumen ejecutivo
+2 · Análisis de los precios
+• Mapas generales por CCAA, provincias y capitales con la variación interanual del precio de la vivienda correspondiente a cada una
+de ellas, identificada por una gradación de color en función del grado de incremento o de descenso. Se acompaña de tablas que
+especifican el último valor medio en €/m2 correspondiente a cada una de ellas, la variación interanual, la variación acumulada desde
+que alcanzaron el máximo valor y la variación desde su mínimo de la última década. Fuente: Tinsa
+• Mapas de calor de los distritos de las mayores capitales (Madrid, Barcelona, Valencia, Sevilla, Zaragoza y Málaga) referentes al precio
+€/m2 de la vivienda, la variación interanual y la tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés), como una
+aproximación al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años. Se acompaña de una tabla con los
+datos de estas tres variables por distrito. Fuente: Tinsa
+3 · Indicadores financieros
+• Mapa provincial con el importe de la hipoteca media, identificada por una gradación de color en función de la cuantía. Se acompaña
+con una tabla por CCAA y provincias. Fuente: Instituto Nacional de Estadística
+• Mapa provincial con la cuota hipotecaria mensual, identificada por una gradación de color en función de la cuantía. Se acompaña
+con una tabla por CCAA y provincias. Fuente: Colegio de Registradores, INE y elaboración propia
+• Mapa de esfuerzo teórico anual en las capitales, medido como porcentaje de la renta anual disponible del hogar medio necesario
+para pagar el primer año de una hipoteca que cubre el 80% del valor de una vivienda a precios actuales. El porcentaje de esfuerzo
+está identificado por una gradación de color en función de la cuantía. Se acompaña con una tabla por CCAA y provincias, y por
+mapas de esfuerzo de compra en los distritos de las seis mayores capitales. Fuente: elaboración propia a partir de datos de Tinsa,
+Colegio de Registradores, Agencia Tributaria e INE
+4 · Indicadores de actividad
+• Gráficos con el número de compraventas y de visados de obra nueva por cada 1.000 viviendas (parque provincial). Fuente: Ministerio
+de Vivienda y Agenda Urbana (Mivau)
+5 · Breve reseña metodológica sobre la construcción de los índices.
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 3
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+2 · RESUMEN EJECUTIVO
+Coyuntura general y nacional
+En el primer trimestre de 2025, el valor medio de la vivienda terminada (nueva y usada) ha aumentado 7,5 % interanual y 2,9 %
+trimestral en términos nominales. Eliminando el efecto de la inflación, esto supone un crecimiento real de 4,7 % interanual, lo que
+implica una nueva aceleración del precio residencial con respecto a la tasa de variación del trimestre anterior.
+PRECIOS Y VARIACIÓN INTERANUAL
+3.000 25%
+20%
+2.500
+15%
+2.000
+10%
+1.500 5%
+0%
+1.000
+-5%
+500
+-10%
+- -15%
+Variación interanual Valor m2
+PRECIOS Y VARIACIÓN TRIMESTRAL
+Variación trimestral Valor m2
+Los primeros datos del ejercicio 2025 continúan reflejando resistencia en el empleo, que mantiene la solvencia de los hogares, y
+un mantenimiento de la demanda residencial en niveles robustos. Según Notarios, en enero las compraventas de vivienda aumentaron
++11,5 % interanual y las hipotecas lo hicieron en +23,8 %. Los datos del INE, basados en las operaciones de Registradores, también confirman
+esta tendencia ascendente y, en enero, las compraventas según esta fuente registraron un aumento de +11,0 % interanual, similar al
+crecimiento de las hipotecas que, excluyendo cambios registrales, aumentaron +10,9 % frente a enero del año anterior. Las hipotecas
+sujetas a cambios registrales también aumentaron +11,4 %, impulsadas por las novaciones y por las subrogaciones por cambio de deudor.
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 4
+1T_2002 3T_2002 1T_3002 3T_3002 1T_4002 3T_4002 1T_5002 3T_5002 1T_6002 3T_6002 1T_7002 3T_7002 1T_8002 3T_8002 1T_9002 3T_9002 1T_0102 3T_0102 1T_1102 3T_1102 1T_2102 3T_2102 1T_3102 3T_3102 1T_4102 3T_4102 1T_5102 3T_5102 1T_6102 3T_6102 1T_7102 3T_7102 1T_8102 3T_8102 1T_9102 3T_9102 1T_0202 3T_0202 1T_1202 3T_1202 1T_2202 3T_2202 1T_3202 3T_3202 1T_4202 3T_4202 1T_5202
+Var. Interanual Valor m2 Valor m2 deflactado
+2.000 4%
+1.800
+1.600 3%
+1.400
+1.200 2%
+1.000
+800 1%
+600
+400 0%
+200
+- -1%
+1T_9102 2T_9102 3T_9102 4T_9102 1T_0202 2T_0202 3T_0202 4T_0202 1T_1202 2T_1202 3T_1202 4T_1202 1T_2202 2T_2202 3T_2202 4T_2202 1T_3202 2T_3202 3T_3202 4T_3202 1T_4202 2T_4202 3T_4202 4T_4202 1T_5202
+Var. Trimestral Valor m2 Valor m2 deflactado
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+El viraje del BCE en 2024 hacia una política monetaria menos contractiva ha favorecido un entorno de mayor facilidad de acceso a crédito.
+Aun así, se continúa observando un porcentaje relevante de compraventas financiadas sin hipoteca (49 % según Notarios y 54 % según
+INE). Las nuevas hipotecas que se registran siguen primando el tipo fijo frente al tipo variable, tendencia retomada desde junio de 2024 tras
+la primera bajada de los tipos de interés de referencia.
+Mientras tanto, la tasa de dudosidad en 2024 se ha mantenido en valores moderados, en torno a 2,5 %, y los préstamos que cubren más del 80 %
+del valor de la vivienda se sitúan en torno al 8 %, según datos del Banco de España. Esta cifra supone un aumento con respecto a 2023, cuando
+se contrajo el apetito de riesgo ante la subida de los tipos de interés, pero se sitúa aún por debajo de los niveles de 2019, cuando el mercado no
+se había visto alterado por el impacto del COVID-19. Todo ello, en combinación con una deuda de los hogares sobre el PIB que se ha continuado
+reduciendo, refleja hasta la fecha un nivel de riesgo hipotecario moderado y alejado de desequilibrios financieros.
+Los visados de fin de obra en enero se mantuvieron al mismo nivel que el año anterior (-0,4 %, según datos del MIVAU), reflejando las
+limitaciones que enfrenta la oferta para ampliar el parque residencial en las zonas de concentración de la demanda, principalmente
+asociadas con la escasez de suelo disponible.
+MERCADO DE LA VIVIENDA
+Variables principales
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 5
+sodasiv
+,sacetopih
+,satnevarpmoc
+ºN
+2m/RUE
+300.000 2.500
+250.000
+2.000
+200.000
+1.500
+150.000
+1.000
+100.000
+500
+50.000
+- -
+La limitación de la oferta en combinación con el sostenimiento de una demanda robusta continúa alimentando tensionamientos en
+los precios residenciales. Los mayores aumentos se concentran en zonas turísticas, polos de empleo y municipios secundarios próximos a
+éstos. Este primer trimestre destaca especialmente la intensidad del crecimiento de los precios en Madrid, sobre todo en su capital.
+Aun así, la tasa de esfuerzo de compra a nivel nacional se ha moderado ligeramente, del 35,5 % al 34,9 %, y se sitúa así en un nivel
+considerado razonable gracias principalmente al restablecimiento gradual del poder adquisitivo de los hogares y, en menor medida,
+a la moderación del coste hipotecario. Las provincias que muestran los tensionamientos más críticos, por encima del 45 % de la renta
+disponible del hogar medio, son Málaga, Baleares, Cádiz y Madrid.
+4T_1002 2T_2002 4T_2002 2T_3002 4T_3002 2T_4002 4T_4002 2T_5002 4T_5002 2T_6002 4T_6002 2T_7002 4T_7002 2T_8002 4T_8002 2T_9002 4T_9002 2T_0102 4T_0102 2T_1102 4T_1102 2T_2102 4T_2102 2T_3102 4T_3102 2T_4102 4T_4102 2T_5102 4T_5102 2T_6102 4T_6102 2T_7102 4T_7102 2T_8102 4T_8102 2T_9102 4T_9102 2T_0202 4T_0202 2T_1202 4T_1202 22202 4T_2202 2T_3202 4T_3202 2T_4202 4T_4202
+Nº compraventas (Notarios) Nº hipotecas vivienda (Notarios) Nº visados obra nueva (MIVAU) Precio medio (Tinsa IMIE)
+sodasiv
+,sacetopih
+,satnevarpmoc
+ºN
+EUR/m2
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Comunidades Autónomas
+Los precios continúan reflejando dinamismo en la mayoría de las regiones. Los crecimientos interanuales se aceleran o mantienen
+su intensidad en 18 de 19 comunidades autónomas y las variaciones trimestrales registran un repunte generalizado. Destaca el
+impulso en Madrid y Cataluña, que casi duplican las tasas de crecimiento interanuales que registraron el trimestre anterior.
+En términos interanuales, los precios en la mayoría de las comunidades crecen por encima del 3 %. El grueso de los incrementos se sitúa
+entre +4,0 y +9,0 %. Por encima del +9,0 % se sitúan las comunidades autónomas de Islas Baleares (12,8 %), Madrid (+12,6 %) y Cantabria
+(+12,2 %). En el extremo contrario, los precios decrecen levemente en Melilla (-1,3 %) y se mantienen en el entorno de la estabilización en
+Ceuta (-0,4 %) y Extremadura (-0,5 %).
+Las variaciones trimestrales reflejan un impulso generalizado. En 8 de 19 comunidades este impulso es moderado y se concentra entre el 0
+% y 1,5 %. Reflejan mayor dinamismo Madrid (+4,8 %), Cantabria (+3,7 %), Islas Baleares (+3,6 %) Comunidad Valenciana (+3,2 %) y Cataluña
+(+3,0 %). No se registran caídas significativas.
+Los precios continúan alejándose progresivamente de los valores mínimos alcanzados durante la gran recesión. Las comunidades que
+más se alejan son Madrid, Islas Baleares, Cataluña y Comunidad Valenciana. En el extremo opuesto, más cercanas a sus valores mínimos, se
+sitúan Castilla y León, País Vasco, Murcia, Extremadura, Ceuta y Melilla.
+En cuanto a la distancia respecto a máximos alcanzados durante la burbuja de 2007, exceden el máximo de la serie histórica Islas Baleares
+y Madrid. Sin embargo, descontando el efecto de la inflación, ambas comunidades se mantienen aún por debajo de dichos máximos (-11 %
+en el caso de Baleares y -27 % en el caso de Madrid). El resto de comunidades no alcanzan los máximos de la serie ni en términos nominales
+ni en términos reales.
+Provincias
+A nivel provincial se observa dinamismo generalizado de los precios en regiones tanto de costa como de interior. Los mayores
+aumentos se observan en la totalidad de la línea de costa (norte, mediterránea y atlántica) y en polos de empleo de las provincias de
+interior, especialmente en Madrid.
+El conjunto de las provincias presenta variaciones interanuales entre el -1,6 % y el +16,5 %. Los aumentos más intensos superan el 10 % y se
+sitúan en Soria (16,5 %), Santa Cruz de Tenerife (+13,2 %), Islas Baleares (+12,8 %), Madrid (+12,6 %), Málaga (+12,5 %), Cantabria (+12,2%),
+Alicante (+10,1%) y Valencia (+10,1%).
+RANKING DE VALOR UNITARIO POR PROVINCIAS
+3.500 25%
+3.000 20%
+2.500
+15%
+2.000
+10%
+1.500
+5%
+1.000
+500 0%
+0 -5%
+Valor m2 Máximo serie histórica nacional Nacional Mínimo serie nacional desde 2008 (post burbuja) Var. Interanual
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 6
+dirdaM seraelaB
+salsI
+anolecraB aoczúpiuG ayacziV agaláM avalÁ atueC anoreG lanoicaN efireneT
+ed
+.C.S
+allileM zidáC arravaN airbatnaC samlaP
+saL
+alliveS azogaraZ etnacilA anogarraT aicnelaV sairutsA ardevetnoP dilodallaV arajaladauG acseuH avleuH añuroC
+aL
+adanarG aíremlA sogruB acnamalaS ajoiR
+aL
+aivogeS aicruM nólletsaC abodróC adielL etecablA airoS aicnelaP odeloT alivÁ zojadaB oguL esnerO leureT nóeL néaJ aromaZ serecáC acneuC laeR
+daduiC
+Valor M2 Máximo serie histórica nacional
+Nacional Mínimo serie nacional desde 2008 (post burbuja)
+Var. Interanual
+2m/€
+oiratinu
+rolaV
+launaretni
+nóicairaV
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Respecto a las variaciones trimestrales, en 18 provincias aumentan los precios medios por encima del +2,0 % y en 17 provincias se mantienen
+en el entorno de la estabilización (+-1 %). Destaca en este trimestre la intensidad del crecimiento de los precios residenciales en Madrid,
+Valencia, Albacete y Pontevedra, todas con tasas trimestrales superiores al 4 %. También registran crecimientos elevados entre el 3 % y el 4 %
+Cantabria, Islas Baleares, Lugo, Santa Cruz de Tenerife, Ávila, Tarragona y Alicante. En el extremo opuesto, se registran leves contracciones en
+torno al 1,0 % en Guipúzcoa, Orense y León.
+En cuanto a los principales polos de empleo, la provincia de Madrid registra una variación en los precios residenciales de +12,6 % interanual
+(frente a +7,0 % en el cuarto trimestre) y +4,8 % trimestral (frente a +3,9 % en el cuarto trimestre), que supone un fuerte impulso respecto al
+trimestre anterior. La provincia de Barcelona también refleja un crecimiento intenso, con una variación de +6,8 % interanual (frente a +4,2 %
+en el cuarto trimestre) y +2,1 trimestral (frente a +1,1 % en el cuarto trimestre).
+Se encuentran algunas comunidades autónomas lo largo del territorio nacional con un comportamiento interprovincial divergente, como es
+el caso de Andalucía, Canarias, Comunidad Valenciana, Castilla y León, Castilla La Mancha y Galicia. En Andalucía, destacan Málaga y Cádiz con
+un impulso intenso, frente a los impulsos intermedios de Granada, Sevilla y Almería y la estabilización de Jaén, Huelva y Córdoba. En Canarias,
+Santa Cruz de Tenerife registra un aumento muy superior en el precio frente a Las Palmas. En Comunidad Valenciana Valencia y Alicante registran
+intensidades muy simulares este trimestre y muy por encima de Castellón. En Castilla y León despuntan Soria, Ávila y Valladolid, y en Castilla La
+Mancha lo hace Toledo y Guadalajara. Finalmente, en Galicia sobresale Pontevedra y en menor medida Lugo.
+Los máximos de la serie se exceden en las Islas Baleares, Santa Cruz de Tenerife y Madrid. Sin embargo, descontando el efecto de la inflación,
+todas ellas se mantienen por debajo de los máximos de sus series, a una distancia de -11 % en el caso de Baleares, -24 % en el caso de Santa
+Cruz de Tenerife y -27 % en el caso de Madrid. El resto de las provincias no alcanzan los máximos de la serie ni en términos nominales ni en
+términos reales.
+Los mayores valores unitarios provinciales se sitúan en Madrid (3.328 €/m2), Baleares (3.310 €/m2), Barcelona (2.682 €/m2), Guipúzcoa (2.532
+€/m2), Vizcaya (2.467 €/m2) y Málaga (2.431 €/m2). En el extremo opuesto, los menores valores unitarios se localizan en Ciudad Real (781 €/m2),
+Cuenca (840 €/m2) y Cáceres (872 €/m2). En el extremo opuesto, los menores valores unitarios se localizan en Ciudad Real (781 €/m2), Cuenca
+(840 €/m2) y Cáceres (872 €/m2).
+Capitales
+Se registran crecimientos elevados en los precios de la mayor parte de las capitales. Los aumentos más intensos se sitúan en capitales
+de provincias costeras, polos de empleo y capitales secundarias cercanas a focos de actividad.
+El conjunto de las capitales registra variaciones interanuales entre -1,3 % y 15,1 %, con la práctica totalidad en valores positivos. Un total de
+28 capitales presentan intensos aumentos de precio por encima del 5 %, frente a las 22 del trimestre previo. Las capitales que han aumentado
+sus precios medios más de un 13% en el último año se localizan en Madrid, Valencia, Vigo, Palma de Mallorca y Soria. Las capitales que han
+aumentado sus precios entre un 10% y un 13% se ubican en Santander, Málaga, Santa Cruz de Tenerife y Alicante. Entre el 8% y el 10% se
+encuentran Logroño, Oviedo, Ávila y Barcelona. De forma minoritaria se registran contracciones en Ceuta (-0,4 %) y Melilla (-1,3%). En cuanto
+a los polos de empleo, Madrid registra el mayor impulso interanual de todos los agregados y Barcelona se intensifica. La capital de Madrid
+registra un +15,1%, reflejando una intensa aceleración en los precios frente al 7,1% previo. La capital de Barcelona registra un aumento de +8
+%, frente al +5,7 % precedente.
+RANKING DE VALOR UNITARIO EN LAS PRINCIPALES CAPITALES
+(€/m2)
+5.000 16%
+14%
+4.000
+12%
+3.000 10%
+8%
+2.000 6%
+4%
+1.000
+2%
+0 0%
+MMaaddrriidd BBaarrcceelloonnaa MMáállaaggaa VVaalleenncciaia SSeevviillllaa NNaacciioonnaall ZZaarraaggoozzaa
+Valor unitario 4.285 3.998 2.580 2.362 2.221 1.902 1.833
+Var. Interanual 15,1% 8,0% 10,4% 14,5% 5,6% 7,5% 5,8%
+Var. Trimestral 6,1% 1,4% 1,9% 5,2% 1,2% 2,9% 2,5%
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 7
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Las variaciones trimestrales muestran un impuso generalizado entre -1,1 % y +6,1 %, con 11 capitales aumentando sus precios en el último
+trimestre más de un 3%. Se reducen, pasando de 19 a 15, las capitales con variaciones trimestrales en el entorno de la estabilización (entre el
+-1 % y el +1 %). Destacan con aumentos por encima del +6 % Madrid y Vigo, y con incrementos entre el +5 % y el +6 %, Palma de Mallorca y
+Valencia. Es especialmente reseñable el impulso de gran intensidad en el trimestre actual en Madrid capital.
+Respecto al dinamismo de la capital versus la provincia, un total de 26 capitales presentan aumentos de precio interanuales de mayor
+intensidad que la provincia, 4 capitales presentan aumentos de similar intensidad y 22 intensidades inferiores. Las capitales con mayores
+aumentos de precio en el último año respecto a su provincia se localizan en Zamora, Cáceres y Valencia.
+Las capitales que superan los máximos de la burbuja de 2007 son Palma de Mallorca, Málaga, Madrid y Santa Cruz de Tenerife. Sin embargo,
+al descontar el efecto de la inflación ninguna de estas capitales alcanza dichos máximos. En términos reales, se sitúan a una distancia de -11 %,
+-21 %, -24 % y -26 %, respectivamente.
+El ranking de las capitales más caras sitúa a San Sebastián en primera posición (4.500 €/m2), seguida por Madrid (4.285 €/m2) y Barcelona
+(3.998 €/m2). A continuación, a escasa distancia, se encuentran Palma de Mallorca, Bilbao, Cádiz, Málaga, Valencia y Vitoria. Las más baratas se
+localizan en Ciudad Real (1.125 €/m2), Zamora (1.148 €/m2) y Lugo (1.178 €/m2).
+Respecto a la relación precio en la capital-provincia, tan solo dos capitales presentan precios medios por debajo de la provincia, estos son,
+Palma de Mallorca respecto a Islas Baleares y Santa Cruz de Tenerife. Las capitales con precios medios más altos respecto a sus provincias son
+San Sebastián frente a Guipúzcoa, Toledo, La Coruña, Cuenca y Valencia, más de un 50 % superiores.
+Distritos de las seis mayores capitales
+La totalidad de los distritos de Madrid reflejan incrementos interanuales de precio entre el 3,9 % y el 13,6 %, con el grueso de distritos
+creciendo entre el +7,0 % y el +12,0 %. Los distritos que registran un mayor aumento de precios respecto al año precedente, por encima del
++12 % son Ciudad Lineal (+13,6 %), Usera (+13,2 %) y Moncloa-Aravaca (+12,4 %). Las variaciones trimestrales se sitúan entre el +1,0 % de
+Hortaleza y el +5,2 % de Ciudad Lineal.
+Los valores medios más elevados, por encima de los 5.000 €/m2, se localizan en el distrito de Barrio de Salamanca (6.615 €/m2), Chamberí (6.186
+€/m2), Chamartín (5.548 €/m2), Centro (5.542 €/m2) y Retiro (5.157 €/m2). En el extremo opuesto, los valores medios más reducidos se ubican en
+Villaverde (2.236 €/m2), Puente de Vallecas (2.293 €/m2) y Usera (2.480 €/m2).
+En Barcelona, los precios de los distritos experimentan incrementos interanuales entre el +2,4 % y el +7,9 %, con el grueso de los distritos
+creciendo entre +4,0 % y +7,0 %. Por encima del 7,0 % se sitúan Sant Martí (+7,9 %) y Eixample (+7,3 %). Las variaciones trimestrales se sitúan
+entre el 0,8 de Ciutat Vella y el 2,1 % de Nou Barris.
+TOP 10 DISTRITOS DE MAYOR VALOR UNITARIO
+(€/m2)
+2,6%
+MADRID_Salamanca 6.615
+11,2%
+MADRID_Chamberí 6.186 3,9%
+10,8%
+MADRID_Chamartín 5.548 4,0%
+10,0%
+MADRID_Centro 5.542 3,1%
+10,9%
+BARCELONA_Sarrià-Sant Gervasi 5.278 1,6%
+5,4%
+MADRID_Retiro 5.157 2,7%
+9,0%
+BARCELONA_Les Corts 4.725 1,5%
+4,6%
+MADRID_Arganzuela 4.694 1,6%
+9,8%
+MADRID_Moncloa-Aravaca 4.649 4,1%
+12,4%
+BARCELONA_Eixample 4.607 1,6%
+7,3%
+Var. Trimestral Var. Interanual
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 8
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Los valores medios más elevados, por encima de los 4.000 €/m2, se localizan en los distritos de Sarriá-Sant Gervasi (5.278 €/m2), Les Corts (4.725
+€/m2), Eixample (4.607 €/m2) y Gràcia (4.252 €/m2). En el extremo opuesto, los valores medios más reducidos se ubican en Nou Barris (2.644 €/
+m2), Horta-Guinardó (3.218 €/m2) y Sant Andreu (3.253 €/m2).
+En Sevilla se registran variaciones interanuales entre -1,3 % y +8,1 %, con el grueso de los distritos creciendo entre 4,0 % y 8,0 %. Por encima
+del 8,0 % se sitúa Casco Antiguo (+8,1 %) y Nervión (+8,0 %). Se registra una contracción moderada en el distrito Sur (-1,3 %). Las variaciones
+trimestrales se sitúan entre el -0,4 % registrado en distrito Sur y el +3,6 % registrado en Casco Antiguo.
+Los valores unitarios más elevados, por encima de los 3.000 €/m2, se localizan en el Casco Antiguo (3.245 €/m2) y Los Remedios (3.004 €/m2).
+En el extremo opuesto, los valores medios más reducidos se ubican en Cerro – Amate (1.343 €/m2) y Norte (1.664 €/m2).
+Valencia muestra variaciones interanuales entre +4,7 % y +24,0 %, con el grueso de los distritos creciendo entre el 9,0 % y el 19,0 %. Por
+encima del 19,0 % se sitúa Patraix (+24,0 %). Las variaciones trimestrales se sitúan entre el +1,5 % de El Pla del Real y el +6,6 % de Poblados
+del Oeste.
+Los valores unitarios más elevados, por encima de 3.000 €/m2, se sitúan en Ciutat Vella (3.186 €/m2) y Ensanche (3.103 €/m2). En el extremo
+opuesto, los valores medios más reducidos se ubican en Poblados del Oeste (1.421 €/m2) y Poblados del Norte (1.488 €/m2).
+Zaragoza registra variaciones interanuales entre +2,5 % y 9,2 %, con el grueso de los distritos creciendo entre el 4,0 % y el 8,0 %. Por encima
+del 8,0 % se sitúa La Almozara (+9,2 %). Las variaciones trimestrales se sitúan entre el +0,2 % de La Almozara y el 3,8 % de Delicias.
+Los mayores valores unitarios residenciales, por encima de 2.000 €/m2, se sitúan en Centro (2.064 €/m2) y Universidad (2.064 €/m2). En el
+extremo opuesto, los valores medios más reducidos se ubican en Barrios Rurales Oeste (1.159 €/m2) y Barrios Rurales Norte (1.334 €/m2).
+Málaga registra variaciones interanuales entre +6,5 % y +24,3 %, con el grueso de distritos creciendo entre 10,0 % y 13,0 %. Por encima del
+13,0 % se sitúan Palma-Palmilla (+24,3 %), Ciudad Jardín (+17,6 %) y Teatinos Universidad (+16,5 %). Las variaciones trimestrales se sitúan
+entre el +0,2 % de Carretera de Cádiz y +6,5 % de Teatinos Universidad.
+Los mayores valores unitarios, por encima de los 3.000 €/m2, se localizan en los distritos Este (3.625 €/m2) y Centro (3.076 €/m2). En el extremo
+opuesto, los valores medios más reducidos se ubican en Campanillas (1.718 €/m2) y Ciudad Jardín (1.822 €/m2).
+ESFUERZO TEÓRICO EN LAS PRINCIPALES CAPITALES Y LAS RESPECTIVAS PROVINCIAS
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Madrid Málaga Barcelona Sevilla Valencia Zaragoza
+Capitales Provincia Accesibilidad razonable Accesibilidad crítica
+En conjunto, los distritos más caros se localizan en las ciudades de Madrid y Barcelona, a gran distancia del resto de capitales. Entre los 10
+puestos superiores se encuentran 7 distritos de Madrid y 3 de Barcelona, con valores superiores a los 4.500€/m2. Barrio de Salamanca en Madrid
+ocupa el puesto número uno, seguido de Chamberí, Chamartín y Centro. En quinto lugar aparece el distrito Sarriá-San Gervasi en Barcelona.
+En cuanto al dinamismo en precios, los distritos con variaciones interanuales más elevadas se concentran en Málaga y Valencia.
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 9
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+ESFUERZO TEÓRICO EN LOS DISTRITOS DE MADRID CAPITAL
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+C e nt S r a o la m a nc C a ha m berí Tet uá n R et A ir r o g a n C z u i u e d la a d Li n e C a h l a m artí n Lati n M a orat C a a la r z M a b o a n n c c l o he a l - Aravac a P u U e s n e t r e a e V n a c l a le rr c a a l s - El Par do Vi V c i á ll lv a a d r e o Vallec a H s ort al ez a Sa n Bla V s ill aver d e B araj as
+u
+F
+Accesibilidad razonable Accesibilidad crítica
+ESFUERZO TEÓRICO EN LOS DISTRITOS DE BARCELONA CAPITAL
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+0%
+Ciutat V
+ella
+Eixa
+mple Gràcia
+Les
+Corts
+Sants-
+Montjuïc
+Sant
+Martí
+Sarrià-
+Sa nt
+Gervasi
+Horta G
+uinard ó
+Nou B
+arris
+Sant
+Andre u
+Accesibilidad razonable Accesibilidad crítica
+Cuota hipotecaria mensual
+Según datos del Instituto Nacional de Estadística, la hipoteca media en España en el cuarto trimestre de 2024 se situó en 145.193 €. Cada mes,
+el pago de la cuota hipotecaria supone un desembolso medio de 756 euros en un entorno de tipos de interés de referencia en descenso, pero
+que continúan en niveles elevados.
+La ratio préstamo/valor medio nacional se situó en 64,1 % en el cuarto trimestre de 2024 (frente a 63,3 % en el tercer trimestre) y los préstamos
+que superaron el 80 % del valor de la vivienda que financiaban se correspondieron con un 8,6 % del total (frente al 8,2 % del segundo trimestre),
+según datos del Banco de España. Estas cifras reflejan el giro gradual hacia una suavización de la política monetaria que facilita el acceso a
+crédito hipotecario. La tasa de dudosidad en tercer trimestre de 2024 se situó en el 2,46 (frente al 2,56 % registrado en el segundo trimestre),
+manteniendo uno de los niveles más bajos de los últimos tres años.
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 10
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Esfuerzo teórico anual
+La presente ratio de esfuerzo teórico anual es un ejercicio teórico que simula el porcentaje de renta disponible que un hogar medio tendría
+que destinar al pago de la primera cuota de una hipoteca que cubre el 80% del valor de una vivienda media a los precios actuales. Con ello
+se busca medir cómo de accesible es para un hogar medio el adquirir una primera vivienda en las distintas zonas del territorio nacional.
+Según este indicador, los españoles destinarían de media un 34,9 % (frente al 35,5 % del trimestre anterior) de su renta disponible al pago de
+la primera cuota anual de una hipoteca con las características mencionadas (es decir, una hipoteca con una ratio préstamo/valor del 80%).
+En el trimestre actual el número de provincias que superan el 35 % (nivel de esfuerzo considerado razonable) se sitúa en 7. Estas son
+Málaga, Islas Baleares, Cádiz, Madrid, Alicante, Sevilla y Barcelona. El caso de mayor tensionamiento se sitúa en Málaga, donde la población
+local se enfrenta a una tasa de esfuerzo del 59 %. Le sigue Islas Baleares, con una tasa de esfuerzo del 49 %.
+El análisis del esfuerzo teórico de compra en las capitales refleja que en 19 capitales del total de 52 se supera el nivel de esfuerzo de 35 %
+considerado razonable. Las tensiones más elevadas, en donde la población local afrontaría esfuerzos teóricos de acceso a una vivienda por
+encima del 50 % de su renta disponible, se localizan en Cádiz, San Sebastián, Madrid, Málaga y Barcelona. A continuación, entre el 40 % y el
+50 %, se sitúan las capitales de Sevilla, Granada, Salamanca, Valencia, Palma, Santander, Pamplona y Bilbao. Finalmente, con esfuerzos entre
+el 35 % y 40 %, se encuentran Alicante, La Coruña, Valladolid, Segovia, Córdoba y Guadalajara.
+El esfuerzo teórico en las seis capitales principales supera el límite del 35 % considerado razonable en cinco de ellas. Se trata de Madrid (57 %),
+Málaga (56 %), Barcelona (55 %), Sevilla (47 %) y Valencia (44 %). Solo Zaragoza se mantiene en niveles razonables, con un esfuerzo del 32 %.
+Tasa de crecimiento anual compuesto a 5 años
+La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación al rendimiento generado por una
+inversión en vivienda que se efectuó hace 5 años.
+Esta tasa a nivel nacional registra un valor de 4,7 %, y abarca un rango entre +1,4 % y 7,6 % en el conjunto de provincias. Los valores máximos
+se registran en Málaga, Islas Baleares y Valencia por encima del 7 % seguidos de Santa Cruz de Tenerife y Guadalajara entre el 6% y el 7%, así
+como Pontevedra, Madrid, Toledo, La Rioja, Alicante, Cádiz, Zaragoza y Cantabria con crecimientos compuestos a 5 años entre el 5 % y el 6%.
+Cristina Arias Andrea de la Hoz
+Directora Servicio de Estudios Consultora Senior Servicio de Estudios
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 11
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+3 · EVOLUCIÓN DE VALORES
+Variaciones interanuales en los últimos trimestres Trimestre actual*
+7,5 % 4,6 % 3,2 % 3,3 % 1.902 2,9 % -12,0 % 49,0 %
+ESPAÑA
+1T 2025* 4T 2024 3T 2024 2T 2024 €/m2 Variación Desde Desde
+trimestral máximos mínimos
+* Dato provisional a partir del Índice IMIE General y de Grandes Mercados (datos mensuales trimestralizados)
+COMUNIDADES AUTÓNOMAS · Variación Interanual
+7,6 % 12,2 % 2,4 % 0,7 %
+Principado de Asturias
+Cantabria
+Galicia País Vasco
+Comunidad
+5,9 %
+Foral de
+Navarra
+6,1 % La Rioja
+Cataluña
+Castilla y León 8,4 %
+5,1 % Aragón
+4,3 %
+12,8 %
+Madrid
+12,6 %
+Comunidad 8,7%
+Extremadura Castilla - La Mancha Valenciana
+-0,5 % 4,3 %
+Islas Baleares
+Región
+de Murcia
+Andalucía
+6,6 % 6,4 %
+-0,4 % -1,3 %
+Ceuta
+8,3 %
+Melilla
+Islas Canarias
+MERCADOS LOCALES
+Incremento superior al 10% Descenso entre el 0 y el -5%
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10%
+Incremento entre el 0 y el 5% Descenso superior al -10%
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 12
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+COMUNIDADES AUTÓNOMAS
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+Andalucía 1.630 €/m2 6,6 % 0,3 % -17,1 % 42,1 %
+Aragón 1.518 €/m2 4,3 % 1,7 % -24,7 % 41,6 %
+Asturias (Principado de) 1.540 €/m2 7,6 % 1,1 % -12,4 % 30,9 %
+Baleares (Islas)/Balears (Illes) 3.310 €/m2 12,8 % 3,6 % 21,4 % 73,0 %
+Canarias (Islas) 1.715 €/m2 8,3 % 2,3 % -10,2 % 42,4 %
+Cantabria 1.704 €/m2 12,2 % 3,7 % -18,4 % 34,6 %
+Castilla y León 1.213 €/m2 5,1 % 0,3 % -22,9 % 25,4 %
+Castilla-La Mancha 1.076 €/m2 4,3 % 2,7 % -33,8 % 34,6 %
+Cataluña 2.381 €/m2 8,4 % 3,0 % -17,7 % 60,4 %
+Comunidad Valenciana 1.517 €/m2 8,7 % 3,2 % -19,3 % 49,2 %
+Extremadura 944 €/m2 -0,5 % 1,1 % -11,6 % 19,9 %
+Galicia 1.332 €/m2 5,9 % 2,5 % -11,4 % 25,8 %
+Madrid (Comunidad de) 3.328 €/m2 12,6 % 4,8 % 1,9 % 83,7 %
+Murcia (Región de) 1.181 €/m2 6,4 % 1,1 % -32,2 % 21,6 %
+Navarra (Comunidad Foral de) 1.714 €/m2 0,7 % 0,7 % -17,4 % 43,0 %
+País Vasco 2.409 €/m2 2,4 % 0,4 % -19,4 % 25,0 %
+Rioja (La) 1.251 €/m2 6,1 % 1,9 % -25,1 % 40,6 %
+Ceuta 1.979 €/m2 -0,4 % 0,7 % -7,8 % 15,0 %
+Melilla 1.788 €/m2 -1,3 % -0,2 % -2,8 % 13,1 %
+Incremento superior al 10% Descenso entre el 0 y el -5% Descenso superior a la media
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10% Descenso inferior a la media
+Incremento entre el 0 y el 5% Descenso superior al -10% Incremento superior a la media
+Incremento inferior a la media
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 13
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+PROVINCIAS · Variación Interanual
+Vizcaya
+2,3 %
+Álava
+7,6 %
+3,0 %
+Guipúzcoa
+12,2 % 2,3 %
+A Coruña Asturias 0,7 %
+Lugo Cantabria
+2,5 %
+4,1 %
+Comunidad
+León Foral de
+Navarra
+Pontevedra 0,7 % Palencia Burgos La Rioja Huesca Lleida
+9,4 % Ourense 1,6 % 4,0 % 6,1 % 4,5 % 9,1 % Girona 7,0 %
+Zamora
+0,3 % 0,8% Valladolid Soria Zaragoza Barcelona
+7,4 % 16,5 % 4,9 % 6,8 %
+Segovia
+Tarragona
+Salamanca 5,7 % Guadalajara 7,7 %
+2,7 % Ávila 4,9 % Teruel
+Madrid 0,0 %
+9,5 % 12,6 %
+Castellón Islas
+Baleares
+Cuenca 3,0 %
+Cáceres Toledo 12,8 %
+3,2 %
+-1,6 % 6,0 %
+Valencia
+10,1 %
+Ciudad Real Albacete
+Badajoz 1,9 % 1,7 %
+1,3 %
+Alicante
+10,1 %
+Córdoba
+Jaén Murcia
+-1,3 %
+1,1 % 6,4 %
+Huelva
+Sevilla
+0,2 %
+4,9 %
+Granada Almería
+5,8 % 3,9 %
+Málaga
+Cádiz
+12,5 %
+7,6 %
+13,2 % 5,9 % Ceuta -0,4 %
+Santa Cruz Las Palmas
+de Tenerife
+Melilla -1,3 %
+MERCADOS LOCALES
+Incremento superior al 10% Descenso entre el 0 y el -5%
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10%
+Incremento entre el 0 y el 5% Descenso superior al -10%
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 14
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+PROVINCIAS
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+ANDALUCÍA
+1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+Almería 1.281 €/m2 3,9% 1,6% -32,7% 31,8%
+Cádiz 1.754 €/m2 7,6% 2,4% -16,3% 36,7%
+Córdoba 1.166 €/m2 -1,3% -0,4% -30,4% 18,4%
+Granada 1.307 €/m2 5,8% 2,2% -17,7% 32,4%
+Huelva 1.325 €/m2 0,2% 0,0% -34,6% 21,0%
+Jaén 885 €/m2 1,1% 1,7% -27,3% 10,7%
+Málaga 2.431 €/m2 12,5% 2,2% -4,9% 81,0%
+Sevilla 1.643 €/m2 4,9% 1,0% -19,6% 32,8%
+ARAGÓN
+Huesca 1.343 €/m2 4,5% 1,1% -21,0% 32,2%
+Teruel 951 €/m2 0,0% 1,5% -13,0% 18,2%
+Zaragoza 1.625 €/m2 4,9% 1,7% -29,0% 44,9%
+ASTURIAS (PRINCIPADO DE)
+Principado de Asturias 1.540 €/m2 7,6% 1,1% -12,4% 30,9%
+BALEARES (ISLAS) / BALEARS (ILLES)
+Islas Baleares 3.310 €/m2 12,8% 3,6% 21,4% 73,0%
+CANARIAS (ISLAS)
+Palmas (Las) 1.695 €/m2 5,9% 1,9% -18,6% 38,7%
+Santa Cruz de Tenerife 1.822 €/m2 13,2% 3,4% 5,8% 57,0%
+CANTABRIA
+Cantabria 1.704 €/m2 12,2% 3,7% -18,4% 34,6%
+CASTILLA Y LEÓN
+Ávila 1.020 €/m2 9,5% 3,2% -27,6% 29,3%
+Burgos 1.281 €/m2 4,0% 0,6% -28,8% 21,8%
+León 941 €/m2 0,7% -1,0% -20,1% 13,5%
+Palencia 1.032 €/m2 1,6% -0,4% -25,2% 9,0%
+Salamanca 1.263 €/m2 2,7% 0,8% -24,5% 18,7%
+Segovia 1.214 €/m2 5,7% 1,9% -28,4% 20,8%
+Soria 1.059 €/m2 16,5% 2,8% -22,9% 33,4%
+Valladolid 1.427 €/m2 7,4% 0,3% -15,5% 36,5%
+Zamora 882 €/m2 0,8% 0,3% -22,7% 11,3%
+CASTILLA LA MANCHA
+Albacete 1.066 €/m2 1,7% 4,2% -25,5% 24,8%
+Ciudad Real 781 €/m2 1,9% 0,3% -30,3% 12,4%
+Cuenca 840 €/m2 3,2% -0,2% -32,5% 26,6%
+Guadalajara 1.385 €/m2 4,9% 1,7% -31,4% 44,4%
+Toledo 1.022 €/m2 6,0% 3,0% -35,5% 40,6%
+Incremento superior al 10% Descenso entre el 0 y el -5% Descenso superior a la media
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10% Descenso inferior a la media
+Incremento entre el 0 y el 5% Descenso superior al -10% Incremento superior a la media
+Incremento inferior a la media
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 15
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+PROVINCIAS
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+CATALUÑA 1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+Barcelona 2.682 €/m2 6,8% 2,1% -17,2% 62,2%
+Gerona / Girona 1.902 €/m2 7,0% 2,1% -27,1% 38,3%
+Lérida / Lleida 1.154 €/m2 9,1% 1,7% -32,1% 27,9%
+Tarragona 1.585 €/m2 7,7% 3,1% -31,3% 38,0%
+COMUNIDAD VALENCIANA
+Alicante / Alacant 1.605 €/m2 10,1% 3,1% -18,3% 44,0%
+Castellón / Castelló 1.169 €/m2 3,0% -0,1% -33,4% 28,9%
+Valencia / Valencia 1.568 €/m2 10,1% 4,3% -15,9% 61,3%
+EXTREMADURA
+Badajoz 983 €/m2 1,3% 1,6% -12,4% 21,9%
+Cáceres 872 €/m2 -1,6% 0,0% -19,4% 13,2%
+GALICIA
+La Coruña / Coruña (A) 1.323 €/m2 2,5% -0,1% -15,1% 18,5%
+Lugo 963 €/m2 4,1% 3,6% -16,4% 20,8%
+Orense / Ourense 952 €/m2 0,3% -1,0% -5,4% 15,2%
+Pontevedra 1.502 €/m2 9,4% 4,2% -6,5% 34,0%
+MADRID (COMUNIDAD DE)
+Madrid 3.328 €/m2 12,6% 4,8% 1,9% 83,7%
+MURCIA (REGIÓN DE)
+Murcia 1.181 €/m2 6,4% 1,1% -32,2% 21,6%
+NAVARRA (COMUNIDAD FORAL DE)
+Navarra 1.714 €/m2 0,7% 0,7% -17,4% 43,0%
+PAÍS VASCO
+Álava / Araba 2.100 €/m2 3,0% 0,6% -22,4% 39,6%
+Guipúzcoa / Guipúzkoa 2.532 €/m2 2,3% -1,1% -13,5% 26,0%
+Vizcaya / Bizkaia 2.467 €/m2 2,3% 0,6% -20,4% 20,3%
+RIOJA (LA)
+Rioja (La) 1.251 €/m2 6,1% 1,9% -25,1% 40,6%
+CEUTA
+Ceuta 1.979 €/m2 -0,4% 0,7% -7,8% 15,0%
+MELILLA
+Melilla Melilla 1.788 €/m2 -1,3% -0,2% -2,8% 13,1%
+Incremento superior al 10% Descenso entre el 0 y el -5% Descenso superior a la media
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10% Descenso inferior a la media
+Incremento entre el 0 y el 5% Descenso superior al -10% Incremento superior a la media
+Incremento inferior a la media
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 16
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+CAPITALES · Variación Interanual
+Bilbao San Sebastián
+8,4 % 10,6 % 3,9 % 5,9 %
+A Coruña 2,0 % Vitoria
+5,1 % 3,7 %
+3,4 %
+Oviedo Santander
+Pontevedra
+Lugo
+7,0 %
+0,5 % Pamplona
+León 5,9 % Burgos 3,0 %
+9,7 % Logroño Girona
+1,6 % Lleida
+Zamora Palencia 2,5 % Huesca 4,0 % 3,8 %
+Ourense 6,7 %
+Valladolid Soria Zaragoza Barcelona
+13,1 % 8,0 %
+7,1 % Segovia 5,8 %
+6,7 %
+Guadalajara 4,2 %
+Salamanca Teruel
+1,1 % 2,6 % 2,3 % Tarragona
+Ávila
+Madrid
+8,3 % 15,1 % Castellón
+Cáceres Cuenca de la Plana
+3,1 % Toledo 3,0 %
+6,5 % 6,3 %
+Valencia
+14,5 %
+13,3 %
+Ciudad Real
+Palma de
+Badajoz 0,3 % Albacete Mallorca
+3,2 %
+5,3 %
+Alicante
+Córdoba
+10,1 %
+1,3 % 2,1 %
+Murcia
+Huelva
+Jaén
+2,6 %
+Sevilla
+5,8 %
+5,6 % Granada
+Almería
+Málaga
+4,2 %
+5,8 %
+3,7 %
+Cádiz 10,4 %
+Las Palmas de 7,4 % Ceuta
+Gran Canaria Melilla
+10,3 % -0,4 %
+-1,3 %
+Santa Cruz
+de Tenerfie
+MERCADOS LOCALES
+Incremento superior al 10% Descenso entre el 0 y el -5%
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10%
+Incremento entre el 0 y el 5% Descenso superior al -10%
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 17
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+CAPITALES
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+AANNDDAALLUUCCÍÍAA
+1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+Almería 1.554 €/m2 3,7% 2,7% -25,9% 35,9%
+Cádiz 2.568 €/m2 7,4% 2,3% -12,8% 40,5%
+Córdoba 1.647 €/m2 1,3% 0,4% -29,2% 23,4%
+Granada 1.952 €/m2 5,8% 2,8% -21,7% 32,5%
+Huelva 1.351 €/m2 2,6% 1,1% -32,9% 24,8%
+Jaén 1.283 €/m2 2,1% 0,8% -35,1% 8,2%
+Málaga 2.580 €/m2 10,4% 1,9% 6,4% 90,7%
+Sevilla 2.221 €/m2 5,6% 1,2% -18,2% 46,1%
+ARAGÓN
+Huesca 1.558 €/m2 3,0% -0,1% -23,2% 35,2%
+Teruel 1.393 €/m2 2,3% 1,3% -22,9% 22,1%
+Zaragoza 1.833 €/m2 5,8% 2,5% -34,3% 43,3%
+ASTURIAS (PRINCIPADO DE)
+Oviedo 1.650 €/m2 8,4% 1,5% -18,3% 25,8%
+BALEARES (ISLAS) / BALEARS (ILLES)
+Palma de Mallorca 3.138 €/m2 13,3% 5,3% 17,9% 91,2%
+CANARIAS (ISLAS)
+Palmas (Las) 1.824 €/m2 4,2% 1,5% -12,5% 32,4%
+Santa Cruz de Tenerife 1.787 €/m2 10,3% 3,4% 2,1% 47,6%
+CANTABRIA
+Santander 2.082 €/m2 10,6% 2,6% -21,7% 32,8%
+CASTILLA Y LEÓN
+Ávila 1.251 €/m2 8,3% 2,3% -33,5% 35,0%
+Burgos 1.574 €/m2 2,5% 0,2% -32,9% 15,7%
+León 1.300 €/m2 0,5% -1,1% -26,4% 17,8%
+Palencia 1.282 €/m2 5,9% 0,4% -28,3% 7,5%
+Salamanca 1.664 €/m2 1,1% 1,3% -30,7% 13,6%
+Segovia 1.625 €/m2 6,7% 1,4% -35,3% 24,8%
+Soria 1.351 €/m2 13,1% 3,5% -28,0% 37,5%
+Valladolid 1.655 €/m2 7,1% 0,3% -21,6% 34,3%
+Zamora 1.148 €/m2 6,7% 3,8% -28,3% 13,7%
+CASTILLA LA MANCHA
+Albacete 1.403 €/m2 3,2% 1,3% -33,7% 27,3%
+Ciudad Real 1.125 €/m2 0,3% 0,0% -43,3% 10,9%
+Cuenca 1.284 €/m2 6,8% -0,1% -35,1% 18,7%
+Guadalajara 1.680 €/m2 2,6% 0,5% -33,3% 38,5%
+Toledo 1.565 €/m2 6,5% 2,3% -33,6% 25,9%
+Incremento superior al 10% Descenso entre el 0 y el -5% Descenso superior a la media
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10% Descenso inferior a la media
+Incremento entre el 0 y el 5% Descenso superior al -10% Incremento superior a la media
+Incremento inferior a la media
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 18
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+CAPITALES
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+CATALUÑA 1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+Barcelona 3.998 €/m2 8,0% 1,4% -7,8% 71,5%
+Gerona / Girona 2.160 €/m2 3,8% 1,4% -25,4% 44,8%
+Lérida / Lleida 1.282 €/m2 4,0% 0,9% -38,9% 29,2%
+Tarragona 1.682 €/m2 4,2% 3,2% -34,2% 35,2%
+COMUNIDAD VALENCIANA
+Alicante / Alacant 1.771 €/m2 10,1% 2,7% -9,7% 51,2%
+Castellón / Castelló 1.211 €/m2 3,0% -0,2% -35,9% 29,5%
+Valencia / Valencia 2.362 €/m2 14,5% 5,2% -2,3% 95,3%
+EXTREMADURA
+Badajoz 1.393 €/m2 5,3% 2,1% -21,4% 27,9%
+Cáceres 1.248 €/m2 3,1% 1,2% -23,1% 20,2%
+GGAALLIICCIIAA
+La Coruña / Coruña (A) 2.021 €/m2 5,1% 1,0% -8,5% 27,5%
+Lugo 1.178 €/m2 2,0% 3,2% -14,0% 27,6%
+Orense / Ourense 1.302 €/m2 1,6% 1,7% -13,1% 12,4%
+Pontevedra 1.536 €/m2 7,0% 2,3% -5,0% 29,1%
+MADRID (COMUNIDAD DE)
+Madrid 4.285 €/m2 15,1% 6,1% 6,1% 99,9%
+MURCIA (REGIÓN DE)
+Murcia 1.400 €/m2 5,8% 3,2% -27,6% 28,1%
+NAVARRA (COMUNIDAD FORAL DE)
+Pamplona 2.280 €/m2 3,4% 1,2% -18,6% 54,7%
+PAÍS VASCO
+Bilbao 2.869 €/m2 3,9% 1,3% -16,9% 30,9%
+San Sebastián 4.500 €/m2 5,9% 2,0% -4,7% 47,8%
+Vitoria 2.283 €/m2 3,7% 0,5% -23,2% 45,2%
+RIOJA (LA)
+Logroño 1.643 €/m2 9,7% 3,1% -30,2% 53,0%
+CEUTA
+Ceuta 1.979 €/m2 -0,4% 0,7% -7,8% 15,0%
+MELILLA
+Melilla 1.788 €/m2 -1,3% -0,2% -2,8% 13,1%
+Incremento superior al 10% Descenso entre el 0 y el -5% Descenso superior a la media
+Incremento entre el 5 y el 10% Descenso entre el -5 y el -10% Descenso inferior a la media
+Incremento entre el 0 y el 5% Descenso superior al -10% Incremento superior a la media
+Incremento inferior a la media
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 19
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+Municipios cuyo mercado residencial es considerado relevante dada
+OTROS MUNICIPIOS PRINCIPALES
+su densidad de población y su volumen de actividad
+VALOR €/M2 VARIACIÓN VARIACIÓN VAR. DESDE MÁXIMOS VAR. DESDE
+1T 2025 INTERANUAL TRIMESTRAL 2007 / 2008 MÍNIMOS
+ALICANTE Alcoy/Alcoi 874 2,7% 1,5% -34,2% 14,4%
+Benidorm 2.089 15,8% 3,8% -14,7% 51,8%
+Elche/Elx 1.378 8,8% 4,2% -21,9% 32,3%
+Elda 862 -2,8% -0,1% -34,7% 8,1%
+Orihuela 1.638 5,3% 1,4% -23,6% 33,1%
+Torrevieja 1.648 9,8% 2,9% -23,7% 32,9%
+ALMERÍA Ejido (El) 1.128 2,6% 3,6% -37,7% 25,8%
+Roquetas de Mar 1.339 12,0% 2,6% -32,7% 33,3%
+ASTURIAS (PRINCIPADO DE) Avilés 1.233 0,0% 0,7% -23,8% 21,1%
+Gijón 1.826 7,2% 2,5% -16,6% 34,5%
+BADAJOZ Mérida 916 1,0% 2,1% -25,5% 10,4%
+BARCELONA Badalona 2.421 3,1% 1,0% -16,7% 60,7%
+Cerdanyola del Vallès 2.625 4,4% 2,1% -17,9% 54,3%
+Cornellà de Llobregat 2.652 3,1% 0,4% -24,8% 60,5%
+Granollers 2.214 5,9% 0,8% -25,2% 53,6%
+Hospitalet de Llobregat (L') 2.599 7,7% 2,5% -26,5% 71,6%
+Manresa 1.519 5,0% 1,0% -38,9% 37,1%
+Mataró 2.239 5,2% 1,1% -26,4% 52,5%
+Prat de Llobregat (El) 2.596 6,0% 1,7% -19,8% 50,6%
+Rubí 2.112 1,6% 0,9% -30,0% 57,9%
+Sabadell 2.155 5,3% 1,7% -30,5% 56,1%
+Sant Boi de Llobregat 2.423 3,2% 1,4% -25,4% 52,8%
+Sant Cugat del Vallès 3.205 3,1% 0,9% -9,1% 53,4%
+Santa Coloma de Gramenet 2.158 8,0% 2,2% -34,0% 55,2%
+Terrassa 2.068 5,2% 1,7% -29,0% 67,0%
+Viladecans 2.595 8,6% 1,9% -20,0% 51,5%
+Vilanova i la Geltrú 2.353 5,1% 2,4% -19,8% 57,4%
+CÁDIZ Algeciras 1.247 0,9% 1,1% -31,3% 18,6%
+Chiclana de la Frontera 2.050 5,7% 1,4% -20,4% 36,6%
+Jerez de la Frontera 1.476 10,3% 3,6% -21,5% 35,8%
+Línea de la Concepción (La) 1.406 4,9% 3,3% -30,6% 30,8%
+Puerto de Santa María (El) 2.197 9,5% 1,5% -7,4% 46,0%
+San Fernando 1.605 7,6% 1,7% -27,0% 30,4%
+Sanlúcar de Barrameda 1.691 10,6% 3,6% -21,9% 42,2%
+CANTABRIA Torrelavega 1.282 12,8% 4,0% -30,7% 22,3%
+CORUÑA (A) Santiago de Compostela 1.538 9,4% 2,6% -11,3% 24,6%
+GRANADA Motril 1.380 6,1% 1,1% -26,8% 36,9%
+GUIPÚZCOA Irún 2.332 1,0% 0,8% -27,7% 29,4%
+JAÉN Linares 833 2,3% 1,2% -37,1% 5,7%
+LEÓN Ponferrada 798 0,7% -1,5% -28,8% 6,7%
+MADRID (COMUNIDAD DE) Alcalá de Henares 2.258 7,0% 3,4% -21,7% 57,4%
+Alcobendas 3.831 5,7% 3,9% 0,5% 66,7%
+Alcorcón 2.574 4,6% 1,7% -15,4% 56,2%
+Coslada 2.432 9,5% 2,3% -21,9% 54,4%
+Fuenlabrada 2.087 6,1% 2,0% -23,2% 51,4%
+Getafe 2.526 3,4% 1,0% -14,3% 59,3%
+Leganés 2.338 6,0% 3,0% -20,3% 51,4%
+Majadahonda 3.711 4,1% 1,4% 0,3% 55,0%
+Móstoles 2.251 9,5% 4,3% -16,1% 63,9%
+Parla 1.754 5,1% 1,7% -33,9% 54,6%
+Pozuelo de Alarcón 4.072 8,7% 3,1% 5,9% 55,8%
+Rozas de Madrid (Las) 3.427 8,3% 2,3% 5,5% 65,1%
+San Sebastián de los Reyes 3.176 3,5% 1,4% -6,4% 64,8%
+Torrejón de Ardoz 2.354 7,2% 3,1% -15,2% 73,5%
+MÁLAGA Marbella 3.257 15,9% 2,9% 9,9% 74,2%
+Vélez-Málaga 2.053 17,6% 2,9% -5,7% 78,0%
+MURCIA (REGIÓN DE) Cartagena 1.284 9,0% 0,7% -34,1% 28,2%
+Lorca 1.043 0,9% 0,0% -26,8% 17,8%
+PALMAS (LAS) Telde 1.433 6,9% 2,5% -19,2% 31,4%
+PONTEVEDRA Vigo 1.961 14,1% 6,1% -9,0% 42,4%
+SANTA CRUZ DE TENERIFE Laguna (La) 1.575 13,1% 1,5% -4,2% 44,3%
+SEVILLA Alcalá de Guadaira 1.461 7,4% 0,1% -27,2% 28,1%
+Dos Hermanas 1.731 3,7% 1,6% -20,2% 35,3%
+TARRAGONA Reus 1.412 3,5% 1,5% -33,8% 36,1%
+TOLEDO Talavera de la Reina 935 0,4% 0,6% -50,3% 30,5%
+VALENCIA Gandía 1.306 7,0% 3,4% -25,6% 43,4%
+Sagunto/Sagunt 1.292 7,5% 0,8% -25,6% 48,8%
+Torrent 1.439 9,2% 2,8% -24,4% 58,0%
+VIZCAYA Barakaldo 2.292 2,5% 0,6% -27,9% 19,5%
+Getxo 3.023 2,6% 0,7% -15,5% 25,9%
+Portugalete 2.274 0,4% 1,6% -33,2% 11,2%
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 20
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 21
+]5331
+,5711[
+]5561
+,5941(
+]5791
+,5181(
+]5922
+,5312(
+]5162
+,5542(
+]5392
+,5772(
+]5523
+,5903(
+]5753
+,5143(
+]5983
+,5373(
+]5124
+,5504(
+]5354
+,5734(
+]5584
+,5964(
+]5715
+,5105(
+]5945
+,5335(
+]5185
+,5565(
+]5316
+,5795(
+]5546
+,5926(
+]5776
+,5166(
+]5907
+,5396(
+]5147
+,5527(
+]5377
+,5757(
+]5508
+,5987(
+]5738
+,5128(
+]5968
+,5358(
+]5109
+,5588(
+]5339
+,5719(
+]5569
+,5949(
+]5799
+,5189(
+]59201
+,53101(
+]51601
+,55401(
+]53901
+,57701(
+]55211
+,59011(
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+MADRID
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 4.285 €/m2 Media de la capital: 15,1% Media de la capital: 6,3 %
+8 8 8
+16 16 16
+21 21 21
+6 6 6
+5 5 5
+9 7 9 7 9 7
+4 15 20 4 15 20 4 15 20
+1 1 1
+3 3 3
+14 14 14
+2 2 2
+10 13 19 10 13 19 10 13 19
+11 12 11 12 11 12
+17 18 17 18 17 18
+Menos de 0%
+0 — 1.000 Menos de -10% 0% — 2%
+1.000 — 1.500 -10% — -5% 2% — 4%
+1.500 — 2.000 -5% — 0% 4% — 6%
+6% — 8%
+2.000 — 2.500 0% — 5%
+8% — 10%
+2.500 — 3.000 5% — 10%
+Más de 10%
+más de 3.000 Más de 10%
+DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES DISTRITO €/M2 % INTERANUAL CAGR*
+POR VALOR UNITARIO
+1600 1 Centro 5.542 10,9 % 4,8 %
+2 Arganzuela 4.694 9,8 % 4,5 %
+3 Retiro 5.157 9,0 % 5,2 %
+1400
+4 Salamanca 6.615 11,2 % 6,9 %
+5 Chamartín 5.548 10,0 % 5,3 %
+1200 ---Media 3.5M64e d€i/am 32.564 €/m2 6 Tetuán 4.267 8,2 % 5,4 %
+---Mediana 3M.3e5d3ia €n/am 32.353 €/m2 7 Chamberí 6.186 10,8 % 6,0 %
+Fuente: Tinsa 8 Fuencarral-El Pardo 4.256 7,5 % 4,9 %
+1000 9 Moncloa-Aravaca 4.649 12,4 % 5,2 %
+10 Latina 2.803 10,2 % 5,7 %
+11 Carabanchel 2.696 10,2 % 6,0 %
+800
+12 Usera 2.480 13,2 % 5,4 %
+13 Puente de Vallecas 2.293 8,8 % 5,1 %
+600 14 Moratalaz 3.077 11,7 % 5,5 %
+15 Ciudad Lineal 3.733 13,6 % 6,5 %
+16 Hortaleza 4.116 5,3 % 4,7 %
+400 17 Villaverde 2.236 9,8 % 5,2 %
+18 Villa de Vallecas 2.943 7,7 % 4,6 %
+19 Vicálvaro 3.254 9,4 % 6,3 %
+200
+20 San Blas 2.906 6,6 % 4,2 %
+21 Barajas 3.677 3,9 % 4,1 %
+0 (*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+2.000 4.000 6.000 8.000 10.000 al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 22
+]2,3021
+,2,3401[
+]2,3251
+,2,3631(
+]2,3481
+,2,3861(
+]2,3612
+,2,3002(
+]2,3842
+,2,3232(
+]2,3082
+,2,3462(
+]2,3213
+,2,3692(
+]2,3443
+,2,3823(
+]2,3673
+,2,3063(
+]2,3804
+,2,3293(
+]2,3044
+,2,3424(
+]2,3274
+,2,3654(
+]2,3405
+,2,3884(
+]2,3635
+,2,3025(
+]2,3865
+,2,3255(
+]2,3006
+,2,3485(
+]2,3236
+,2,3616(
+]2,3466
+,2,3846(
+]2,3696
+,2,3086(
+]2,3827
+,2,3217(
+]2,3067
+,2,3447(
+]2,3297
+,2,3677(
+]2,3428
+,2,3808(
+]2,3658
+,2,3048(
+]2,3888
+,2,3278(
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+BARCELONA
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 3.998 €/m2 Media de la capital: 8,0 % Media de la capital: 2,7 %
+8 8 8
+9 9 9
+7 7 7
+6 6 6
+5 10 5 10 5 10
+2 2 2
+4 1 4 1 4 1
+3 3 3
+0 — 1.000 Menos de -10% Menos de 0%
+0% — 2%
+1.000 — 1.500 -10% — -5%
+2% — 4%
+1.500 — 2.000 -5% — 0%
+4% — 6%
+2.000 — 2.500 0% — 5%
+6% — 8%
+2.500 — 3.000 5% — 10% 8% — 10%
+más de 3.000 Más de 10% Más de 10%
+800 DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES
+DISTRITO €/M2 % INTERANUAL CAGR*
+POR VALOR UNITARIO
+1 Ciutat Vella 3.820 2,4 % 0,9 %
+700
+2 L'Eixample 4.607 7,3 % 2,6 %
+3 Sants-Montjuïc 3.542 4,7 % 2,1 %
+600 ---Media 3.672 M M€ e e/ d dm i i a a n 3 a . 6 3 7 . 2 5 7 € 1 / m €/ 2 m 2 4 Les Corts 4.725 4,6 % 2,6 %
+---Mediana 3.571 €/m2
+5 Sarrià-Sant Gervasi 5.278 5,4 % 2,8 %
+Fuente: Tinsa
+500 6 Gràcia 4.252 5,6 % 2,2 %
+7 Horta Guinardó 3.218 6,4 % 2,6 %
+8 Nou Barris 2.644 6,0 % 2,3 %
+400
+9 Sant Andreu 3.253 6,7 % 2,8 %
+10 Sant Martí 3.849 7,9 % 3,8 %
+300
+(*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+200
+100
+0
+2.000 3.000 4.000 5.000 6.000 7.000 8.000 9.000
+
+--- PÁGINA {} ---
+
+]7,227
+,7,206[
+]7,269
+,7,248(
+]7,2021
+,7,2801(
+]7,2441
+,7,2231(
+]7,2861
+,7,2651(
+]7,2291
+,7,2081(
+]7,2612
+,7,2402(
+]7,2042
+,7,2822(
+]7,2462
+,7,2252(
+]7,2882
+,7,2672(
+]7,2213
+,7,2003(
+]7,2633
+,7,2423(
+]7,2063
+,7,2843(
+]7,2483
+,7,2273(
+]7,2804
+,7,2693(
+]7,2234
+,7,2024(
+]7,2654
+,7,2444(
+MERCADOS LOCALES
+INFORME 3ER TRIMESTRE 2022
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+VALENCIA
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 2.362 €/m2 Media de la capital: 14,5% Media de la capital: 8,9 %
+17 17 17
+18 18 18
+16 15 16 15 16 15
+4 5 14 4 5 14 4 5 14
+13 13 13
+3 1 6 3 1 6 3 1 6
+7 11 7 11 7 11
+2 12 2 12 2 12
+8 8 8
+9 10 9 10 9 10
+19 19 19
+0 — 1.000 Menos de -10% Menos de 0%
+0% — 2%
+1.000 — 1.500 -10% — -5%
+2% — 4%
+1.500 — 2.000 -5% — 0%
+4% — 6%
+2.000 — 2.500 0% — 5%
+6% — 8%
+2.500 — 3.000 5% — 10% 8% — 10%
+más de 3.000 Más de 10% Más de 10%
+DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES DISTRITO €/M2 % INTERANUAL CAGR*
+POR VALOR UNITARIO
+1 Ciutat Vella 3.186 4,7 % 7,6 %
+450 2 L’Eixample 3.103 9,9 % 7,0 %
+3 Extramurs 2.543 14,2 % 7,7 %
+400 Media 1.909 €/m2 4 Campanar 2.385 7,5 % 7,8 %
+Mediana 1.823 €/m2 5 La Saïdia 1.928 13,7 % 7,7 %
+350 Fuente: Tinsa 6 El Pla del Real 2.778 11,1 % 6,3 %
+7 L’Olivereta 1.723 14,9 % 9,5 %
+8 Patraix 2.055 24,0 % 9,7 %
+300
+9 Jesús 1.976 18,8 % 12,7 %
+10 Quatre Carreres 2.337 15,5 % 11,5 %
+250
+11 Poblats Marítims 2.017 4,8 % 8,1 %
+12 Camins al Grau 2.285 11,7 % 6,8 %
+200
+13 Algirós 2.270 9,8 % 8,2 %
+14 Benimaclet 2.197 10,6 % 8,2 %
+150
+15 Rascanya 1.578 18,6 % 6,6 %
+16 Benicalap 1.861 5,5 % 8,8 %
+100
+17 Poblados del Norte 1.488 7,2 % 3,5 %
+18 Poblados del Oeste 1.421 18,6 % 8,5 %
+50
+19 Poblados del Sur 1.729 8,7 % 7,8 %
+(*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+0
+500 1.000 1.500 2.000 2.500 3.000 3.500 4.000 4.500 al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 23
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 24
+]2,927
+,2,995[
+]2,958
+,2,927(
+]2,989
+,2,958(
+]2,9111
+,2,989(
+]2,9421
+,2,9111(
+]2,9731
+,2,9421(
+]2,9051
+,2,9731(
+]2,9361
+,2,9051(
+]2,9671
+,2,9361(
+]2,9981
+,2,9671(
+]2,9202
+,2,9981(
+]2,9512
+,2,9202(
+]2,9822
+,2,9512(
+]2,9142
+,2,9822(
+]2,9452
+,2,9142(
+]2,9762
+,2,9452(
+]2,9082
+,2,9762(
+]2,9392
+,2,9082(
+]2,9603
+,2,9392(
+]2,9913
+,2,9603(
+]2,9233
+,2,9913(
+]2,9543
+,2,9233(
+]2,9853
+,2,9543(
+]2,9173
+,2,9853(
+]2,9483
+,2,9173(
+]2,9793
+,2,9483(
+]2,9014
+,2,9793(
+]2,9324
+,2,9014(
+]2,9634
+,2,9324(
+]2,9944
+,2,9634(
+]2,9264
+,2,9944(
+]2,9574
+,2,9264(
+]2,9884
+,2,9574(
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+SEVILLA
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 2.221 €/m2 Media de la capital: 5,6 % Media de la capital: 3,9 %
+7 7 7
+9 9 9
+2 2 2
+8 8 8
+1 1 1
+6 3 4 6 3 4 6 3 4
+5 5 5
+11 11 11
+10 10 10
+0 — 1.000 Menos de -10% Menos de 0%
+1.000 — 1.500 -10% — -5% 0% — 2%
+2% — 4%
+1.500 — 2.000 -5% — 0%
+4% — 6%
+2.000 — 2.500 0% — 5%
+6% — 8%
+2.500 — 3.000 5% — 10% 8% — 10%
+más de 3.000 Más de 10% Más de 10%
+DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES DISTRITO €/M2 % INTERANUAL CAGR*
+POR VALOR UNITARIO
+1 Casco Antiguo 3.245 8,1 % 4,1 %
+450
+2 Macarena 1.783 6,9 % 4,5 %
+3 Nervión 2.929 8,0 % 4,0 %
+400
+Media 2.050 €/m2 4 Cerro - Amate 1.343 6,6 % 4,6 %
+Mediana 1.990 €/m2
+5 Sur 2.228 -1,3 % 4,9 %
+350 ---MediaF 2u.e0n5t0e €: /Tmin2sa
+---Mediana 1.990 €/m2 6 Triana 2.761 6,2 % 5,1 %
+300 7 Norte 1.664 5,4 % 4,5 %
+8 San Pablo - Santa Justa 2.067 2,9 % 3,0 %
+250 9 Este-Alcosa-Torreblanca 1.776 4,8 % 4,1 %
+10 Bellavista - La Palmera 2.158 4,5 % 4,4 %
+200
+11 Los Remedios 3.004 6,3 % 4,7 %
+150 (*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+100
+50
+0
+500 1.000 1.500 2.000 2.500 3.000 3.500 4.000 4.500 5.000
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 25
+]225
+,644[
+]476
+,895(
+]628
+,057(
+]879
+,209(
+]0311
+,4501(
+]2821
+,6021(
+]4341
+,8531(
+]6851
+,0151(
+]8371
+,2661(
+]0981
+,4181(
+]2402
+,6691(
+]4912
+,8112(
+]6432
+,0722(
+]8942
+,2242(
+]0562
+,4752(
+]2082
+,6272(
+]4592
+,8782(
+]6013
+,0303(
+]8523
+,2813(
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+ZARAGOZA
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 1.833 €/m2 Media de la capital: 5,8 % Media de la capital: 4,8 %
+11 11 11
+10 10 10
+12 7 12 7 12 7
+1 1 1
+8 3 2 8 3 2 8 3 2
+5 5 5
+4 4 4
+9 9 9
+6 6 6
+0 — 1.000 Menos de -10% Menos de 0%
+1.000 — 1.500 -10% — -5% 0% — 2%
+2% — 4%
+1.500 — 2.000 -5% — 0%
+4% — 6%
+2.000 — 2.500 0% — 5%
+6% — 8%
+2.500 — 3.000 5% — 10% 8% — 10%
+más de 3.000 Más de 10% Más de 10%
+DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES DISTRITO €/M2 % INTERANUAL CAGR*
+POR VALOR UNITARIO
+1 Casco Histórico 1.779 6,2 % 3,7 %
+450 2 Centro 2.064 3,2 % 1,7 %
+3 Delicias 1.594 4,8 % 6,0 %
+400 Media 1.652 €/m2
+---Media 1.652 €/mM2ediana 1.646 €/m2 4 Universidad 2.064 7,3 % 4,3 %
+350 ---Mediana F 1 u .6 e 4 n 6 t € e / : m T 2 insa 5 San José 1.789 5,6 % 6,4 %
+6 Las Fuentes 1.514 6,6 % 7,1 %
+300 7 La Almozara 1.748 9,2 % 7,2 %
+8 Oliver - Valdefierro 1.815 7,2 % 5,6 %
+250
+9 Torrero-La Paz 1.581 2,5 % 5,0 %
+10 Margen Izquierda 1.822 6,1 % 4,0 %
+200
+11 Barrios rurales del norte 1.334 4,7 % 4,0 %
+150 12 Barrios rurales del oeste 1.159 4,8 % 4,8 %
+(*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+100 al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+50
+0
+500 1.000 1.500 2.000 2.500 3.000
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 26
+]127
+,175[
+]1201
+,178(
+]1231
+,1711(
+]1261
+,1741(
+]1291
+,1771(
+]1222
+,1702(
+]1252
+,1732(
+]1282
+,1762(
+]1213
+,1792(
+]1243
+,1723(
+]1273
+,1753(
+]1204
+,1783(
+]1234
+,1714(
+]1264
+,1744(
+]1294
+,1774(
+]1225
+,1705(
+]1255
+,1735(
+]1285
+,1765(
+PRECIOS Y RENTABILIDAD EN LAS SEIS MAYORES CAPITALES
+MÁLAGA
+PRECIO MEDIO (€/m2) VARIACIÓN INTERANUAL DE PRECIO (%) CAGR (5 años)*
+Media de la capital: 2.580 €/m2 Media de la capital: 10,4 % Media de la capital: 7,9%
+3 3 3
+5 2 5 2 5 2
+10 10 10
+9 4 1 9 4 1 9 4 1
+11 6 11 6 11 6
+7 7 7
+8 8 8
+0 — 1.000 Menos de -10% Menos de 0%
+1.000 — 1.500 -10% — -5% 0% — 2%
+2% — 4%
+1.500 — 2.000 -5% — 0%
+4% — 6%
+2.000 — 2.500 0% — 5%
+6% — 8%
+2.500 — 3.000 5% — 10% 8% — 10%
+más de 3.000 Más de 10% Más de 10%
+DISTRITO €/M2 % INTERANUAL CAGR*
+DISTRIBUCIÓN DE LA MUESTRA DE TASACIONES
+POR VALOR UNITARIO 1 Centro 3.076 10,4% 7,6%
+2 Málaga Este 3.625 11,7% 11,1%
+450
+3 Ciudad Jardín 1.822 17,6% 9,2%
+400 ---Media 2.246€/m2 4 Bailén-Miraflores 2.078 12,9% 8,2%
+Media 2.246 €/m2
+---MedianMae 2d.1ia2n2a € 2/m.1222 €/m2 5 Palma-Palmilla 2.026 24,3% 9,7%
+350 Fuente: Tinsa 6 Cruz de Humilladero 2.194 11,3% 8,0%
+7 Carretera Cádiz 2.481 10,4% 6,8%
+300 8 Churriana 2.200 12,3% 6,6%
+9 Campanillas 1.718 7,1% 5,9%
+250
+10 Puerto de la Torre 2.239 6,5% 7,5%
+11 Teatinos-Universidad 2.980 16,5% 8,2%
+200
+(*) La tasa de crecimiento anual compuesto (CAGR por sus siglas en inglés) es aquí una aproximación
+al rendimiento generado por una inversión en vivienda que se efectuó hace 5 años
+150
+100
+50
+0
+500 1.000 1.500 2.000 2.500 3.000 3.500 4.000 4.500
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+4 · INDICADORES FINANCIEROS
+Cuantía media de los créditos hipotecarios firmados
+HIPOTECA MEDIA
+en el trimestre anterior. En euros.
+Álava
+118.439 144.384
+107.901
+Vizcaya Guipúzcoa
+121.737 157.131 170.397
+130.498
+Asturias
+A Coruña Lugo Cantabria
+79.041
+Pontevedra León Palencia Com de u n N i a d v a a d r r F a oral
+124.504 99.565 87.669 Burgos Huesca
+O 9 u 1 re .6 ns 9 e 1 108.481 La Rio 9 ja 9.910 105.038 Lleida Girona 150.420
+Zamora 109.767
+88.387 Valladolid Soria Zaragoza Barcelona 177.922
+111.661 105.396 121.795
+Segovia Tarragona
+Salamanca 105.822 Guadalajara 112.937
+Teruel Islas
+108.552 Ávila 127.073 Baleares
+Madrid 88.160
+89.514 254.698
+206.761
+Castellón
+88.796
+Toledo Cuenca
+Cáceres
+105.343 94.028
+89.733
+Valencia
+115.261
+Ciudad Real Albacete
+Badajoz 78.369 98.404
+87.950 Alicante
+113.586
+Córdoba Jaén
+Murcia
+111.198 84.550
+Huelva 93.240
+98.943 Sevilla
+122.665 Granada Almería
+110.276 95.411 Hipoteca media nacional
+Málaga
+Cádiz 145.193 euros
+196.454
+118.426
+Hasta 75.000 €
+Ceuta Melilla
+75.000 - 85.000 €
+132.226 143.477
+125.229 117.728 85.000 - 100.000 €
+Santa Cruz Las Palmas Más de 100.000 €
+de Tenerife
+Fuente: INE
+CCAA HIPOTECA MEDIA (€) PROVINCIAS HIPOTECA MEDIA (€) PROVINCIAS HIPOTECA MEDIA (€) PROVINCIAS HIPOTECA MEDIA (€)
+Extremadura 89.467 Ciudad Real 78.369 Huesca 105.038 Coruña (La) 121.737
+Murcia (Región de) 93.240 Lugo 79.041 Toledo 105.343 Zaragoza 121.795
+Rioja (La) 99.910 Jaén 84.550 Soria 105.396 Sevilla 122.665
+Castilla - La Mancha 103.742 Palencia 87.669 Segovia 105.822 Pontevedra 124.504
+Castilla y León 104.395 Badajoz 87.950 Asturias (Principado de) 107.901 Santa Cruz de Tenerife 125.229
+Asturias (Principado de) 107.901 Teruel 88.160 Burgos 108.481 Guadalajara 127.073
+Comunidad Valenciana 111.366 Zamora 88.387 Salamanca 108.552 Navarra (C. Foral de) 130.498
+Galicia 116.897 Castellón 88.796 Lleida 109.767 Ceuta 132.226
+Aragón 117.138 Ávila 89.514 Granada 110.276 Melilla 143.477
+Cantabria 118.439 Cáceres 89.733 Córdoba 111.198 Álava 144.384
+Canarias (Islas) 119.614 Orense 91.691 Valladolid 111.661 Gerona 150.420
+Navarra (C. Foral de) 130.498 Murcia (Región de) 93.240 Tarragona 112.937 Vizcaya 157.131
+Andalucía 132.039 Cuenca 94.028 Alicante 113.586 Guipúzcoa 170.397
+Ceuta 132.226 Almería 95.411 Valencia 115.261 Barcelona 177.922
+Melilla 143.477 Albacete 98.404 Palmas (Las) 117.728 Málaga 196.454
+País Vasco 159.288 Huelva 98.943 Cádiz 118.426 Madrid (Comunidad de) 206.761
+Cataluña 164.537 León 99.565 Cantabria 118.439 Baleares (Islas) 254.698
+Madrid (Comunidad de) 206.761 Rioja (La) 99.910
+Baleares (Islas) 254.698
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 27
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+CUOTA HIPOTECARIA MEDIA Pago mensual que, de acuerdo al coste financiero medio vigente,
+afronta el tomador de una hipoteca. En euros.
+Álava
+683
+Vizcaya Guipúzcoa
+545
+653 803 824
+Asturias
+A Coruña Lugo Cantabria
+570
+415
+Comunidad Foral
+Pontevedra León de Navarra
+647 404 Burgos 713
+O u 4 r 1 en 0 se P a 4 le 4 n 3 cia 550 L 4 a R 9 io 3 ja H 5 u 1 es 9 ca Lleida Girona 698
+424
+Zamora
+Valladolid Soria Zaragoza Barcelona
+378 612 454 628 985
+Segovia Tarragona
+Salamanca 521 Guadalajara 582
+542 Ávila Madrid 689 Teruel Islas
+438 368 Baleares
+1.234 470 1.484
+Castellón
+Cáceres Toledo Cuenca
+408 508 418
+Valencia
+630
+Ciudad Real Albacete
+Badajoz 388 530
+460 Alicante
+Córdoba 646
+Jaén Murcia
+487
+Huelva 370 493
+554 Sevilla
+687 Granada Almería
+546 536
+Málaga
+1.016 Media nacional 756 euros
+Cádiz
+733
+Melilla Hasta 400 €
+673 626 787 711 400 - 500 €
+500 - 600 €
+Ceuta
+d Sa e n T t e a n C e r r u ife z Las Palmas Más de 600 €
+Fuente: Colegio de Registradores,
+INE y elaboración propia.
+CCAA CUOTA MEDIA (€) PROVINCIAS CUOTA MEDIA (€) PROVINCIAS CUOTA MEDIA (€) PROVINCIAS CUOTA MEDIA (€)
+Extremadura 441 Teruel 368 Toledo 508 Pontevedra 647
+Rioja (La) 493 Jaén 370 Huesca 519 Cantabria 653
+Murcia (Región de) 493 Zamora 378 Segovia 521 Santa Cruz de Tenerife 673
+Castilla y León 520 Ciudad Real 388 Albacete 530 Álava 683
+Castilla - La Mancha 535 León 404 Almería 536 Sevilla 687
+Asturias (Principado de) 545 Cáceres 408 Salamanca 542 Guadalajara 689
+Galicia 574 Orense 410 Asturias (Principado de) 545 Gerona 698
+Aragón 587 Lugo 415 Granada 546 Melilla 711
+Comunidad Valenciana 610 Cuenca 418 Burgos 550 Navarra (C. Foral de) 713
+Canarias (Islas) 633 Lleida 424 Huelva 554 Cádiz 733
+Cantabria 653 Ávila 438 Coruña (La) 570 Ceuta 787
+Andalucía 682 Palencia 443 Tarragona 582 Vizcaya 803
+Melilla 711 Soria 454 Valladolid 612 Guipúzcoa 824
+Navarra (C. Foral de) 713 Badajoz 460 Las Palmas 626 Barcelona 985
+País Vasco 784 Castellón 470 Zaragoza 628 Málaga 1.016
+Ceuta 787 Córdoba 487 Valencia 630 Madrid (Comunidad de) 1.234
+Cataluña 874 Rioja (La) 493 Alicante 646 Baleares (Islas) 1.484
+Madrid (Comunidad de) 1.234 Murcia (Región de) 493
+Baleares (Islas) 1.484
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 28
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+ESFUERZO TEÓRICO ANUAL Porcentaje de la renta disponible del hogar medio destinada al pago del primer
+año de una hipoteca que financia el 80% del valor de una vivienda media.
+Vitoria
+32,0 %
+28,6 % 43,1 % Bilbao San Sebastián
+37,0 %
+40,4 % 56,8 %
+Lugo Oviedo Santander
+A Coruña
+24,1 %
+Pontevedra León Palencia 31,9 % Pamplona
+29,5 %
+29,9 % 30,3 % 42,6 %
+31,3 % Logroño Lleida
+29,7 %
+Ourense Burgos 32,1% Huesca 20,4 % Girona
+Zamora
+29,0 %
+29,7 % Soria Barcelona
+Valladolid 27,4 % Zaragoza 55,1 %
+36,5 % 36,0 % 31,8 %
+Tarragona
+Salamanca Segovia Guadalajara Teruel 25,6 %
+44,6 % 35,4 % 23,2 % Palma
+Ávila de Mallorca
+Madrid
+27,2 % Castellón 44,1 %
+56,6 % de la Plana
+Cáceres
+26,9 % Toledo Cuenca 23,3 %
+30,4 %
+31,1 %
+Valencia 44,3 %
+Ciudad Real
+25,4 % Albacete
+Badajoz
+31,2 % 31,9 % Alicante
+35,9 % Jaén 38,1%
+Murcia
+26,8 %
+Huelva 25,2 %
+Córdoba
+31,0 %
+Sevilla
+46,6 % Granada Almería c T a a p sa it d al e d e e s f l u a e p r r z o o v e in n c l i a a
+33,9 %
+45,6 %
+Málaga
+Media nacional: 34,9%
+Cádiz 56,2 %
+60,4 % Ceuta Melilla Menos de 30%
+28,4 % 28,5 % 28,2 % 28,7 % 30 - 35%
+36 - 45%
+Santa Cruz Palmas de
+de Tenerife Gran Canaria Más de 45%
+Fuente: Elaboración propia a partir de datos de AGT, INE y Registradores.
+El cálculo incluye estimaciones sobre la renta y puede estar sujeto a revisiones una vez los datos definitivos estén disponibles.
+CCAA ESFUERZO PROVINCIAS ESFUERZO PROVINCIAS ESFUERZO PROVINCIAS ESFUERZO
+Murcia (Región de) 23,8 % Lleida 19,0 % Cáceres 27,0 % Santa Cruz de Tenerife 30,9 %
+Rioja (La) 26,2 % Teruel 19,9 % Zamora 27,1 % Pontevedra 31,4 %
+Aragón 27,7 % Ciudad Real 23,3 % Segovia 27,5 % Navarra (C. Foral de) 31,4 %
+Extremadura 28,0 % Soria 23,8 % Burgos 28,1 % Almería 32,6 %
+Canarias (Islas) 28,1 % Murcia (Región de) 23,8 % Ceuta 28,2 % Huelva 32,9 %
+Ceuta 28,2 % Castellón 23,8 % Badajoz 28,4 % Vizcaya 33,6 %
+Galicia 28,7 % Lugo 23,9 % Melilla 28,7 % Salamanca 33,6 %
+Melilla 28,7 % Jaén 25,6 % Zaragoza 28,8 % Guipúzcoa 33,8 %
+Castilla - La Mancha 29,0 % León 25,6 % Ávila 29,0 % Granada 34,7 %
+Castilla y León 29,7 % Orense 25,7 % Albacete 29,2 % Cantabria 34,9 %
+Asturias (Principado de) 30,7 % Huesca 25,9 % Álava 29,7 % Barcelona 37,0 %
+Navarra (C. Foral de) 31,4 % Palencia 26,1 % Guadalajara 30,0 % Sevilla 37,3 %
+Comunidad Valenciana 32,1 % Cuenca 26,1 % Gerona 30,1 % Alicante 38,9 %
+País Vasco 32,8 % Rioja (La) 26,2 % Valladolid 30,6 % Madrid (Comunidad de) 43,1 %
+Cataluña 34,2 % Tarragona 26,4 % Valencia 30,7 % Cádiz 43,9 %
+Cantabria 34,9 % Coruña (La) 26,5 % Asturias (Principado de) 30,7 % Baleares (Islas) 49,4 %
+Andalucía 40,5 % Las Palmas 26,9 % Córdoba 30,9 % Málaga 59,0 %
+Madrid (Comunidad de) 43,1 % Toledo 26,9 %
+Baleares (Islas) 49,4 %
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 29
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+ESFUERZO TEÓRICO ANUAL EN LAS SEIS MAYORES CAPITALES
+MADRID BARCELONA VALENCIA
+Media de la capital: 51,6% Media de la capital: 41,7%
+Media de la capital: 58,5%
+8
+9 17
+7
+18
+16 15
+8 4 5 14
+5 6 10 1 6 13
+7 3 2 12 11
+8
+6 16 21 4 2 1 9 10
+5
+9 7
+4 15 20 3
+1
+3
+14
+2
+10 13 19
+11 12
+17 18
+19
+SEVILLA ZARAGOZA MÁLAGA
+Media de la capital: 45,0% Media de la capital: 32,0% Media de la capital: 56,2%
+7
+2
+9
+1 8 3
+6 3 5 2
+4 11
+10
+5 12 8 7 3 1 2 1 0
+11 5 9 4 1
+10 4 11 6
+7
+9
+6 8
+MADRID ESFUERZO BARCELONA ESFUERZO VALENCIA ESFUERZO SEVILLA ESFUERZO ZARAGOZA ESFUERZO MÁLAGA ESFUERZO
+1 Centro 82,1 % Ciutat Vella 67,6 % Ciutat Vella 57,3 % Casco Antiguo 59,6 % Casco Histórico 37,8 % Centro 74,9 %
+2 Arganzuela 55,8 % L'Eixample 59,2 % L’Eixample 49,3 % Macarena 47,5 % Centro 35,1 % Málaga este 60,8 %
+3 Retiro 57,6 % Sants-Montjuïc 52,7 % Extramurs 44,0 % Nervión 47,0 % Delicias 35,0 % Ciudad Jardín 48,6 %
+4 Salamanca 71,7 % Les Corts 55,1 % Campanar 38,6 % Cerro - Amate 41,9 % Universidad 27,7 % Bailén-Miraflores 49,2 %
+5 Chamartín 50,1 % Sarrià-Sant Gervasi 49,8 % La Saïdia 39,8 % Sur 47,5 % San José 38,1 % Palma-Palmilla 53,1 %
+6 Tetuán 60,2 % Gràcia 56,5 % El Pla del Real 39,5 % Triana 57,3 % Las Fuentes 34,2 % Cruz de Humilladero 56,0 %
+7 Chamberí 69,7 % Horta Guinardó 48,6 % L’Olivereta 39,6 % Norte 39,6 % La Almozara 32,0 % Carretera Cádiz 62,8 %
+8 Fuencarral-El Pardo 43,8 % Nou Barris 47,7 % Patraix 37,7 % San Pablo-Santa Justa 42,5 % Oliver - Valdefierro 26,0 % Churriana 39,9 %
+9 Moncloa-Aravaca 45,5 % Sant Andreu 47,5 % Jesús 42,2 % Este-Alcosa-Torreblanca 34,2 % Torrero-La Paz 28,7 % Campanillas 43,7 %
+10 Latina 49,9 % Sant Martí 52,5 % Quatre Carreres 45,8 % Bellavista-La Palmera 34,4 % Margen Izquierda 28,6 % Puerto de la Torre 50,1 %
+11 Carabanchel 46,8 % Poblats Marítims 43,3 % Los Remedios 48,4 % Barrios rurales norte 19,2 % Teatinos-Universidad 54,6 %
+12 Usera 45,2 % Camins al Grau 38,7 % Barrios rurales oeste 20,2 %
+13 Puente de Vallecas 44,8 % Algirós 43,0 %
+14 Moratalaz 49,8 % Benimaclet 40,4 %
+15 Ciudad Lineal 52,7 % Rascanya 30,4 %
+16 Hortaleza 41,3 % Benicalap 35,5 %
+17 Villaverde 39,2 % Poblados del Norte 23,0 % Menos de 30%
+18 Villa de Vallecas 41,8 % Poblados del Oeste 30,5 % 30 - 35%
+19 Vicálvaro 43,1 % Poblados del Sur 36,3 % 36 - 45%
+20 San Blas 39,6 % Más de 45%
+21 Barajas 39,2 %
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 30
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+5 · INDICADORES DE ACTIVIDAD
+ACTIVIDAD PROMOTORA Y COMPRAVENTAS RELATIVAS
+COMPRAVENTAS SOBRE PARQUE VISADOS DE OBRA SOBRE PARQUE
+Transmisiones en el último año móvil* por cada 1.000 viviendas del Licencias de construcción en el último año móvil* por cada 1.000
+parque provincial. viviendas del parque provincial.
+0 5 10 15 20 25 30 35 0 1 2 3 4 5 6 7 8 9
+Orense 10,2 Orense 1,5
+Lugo 13,5 Ávila 1,7
+Zamora 13,5 Jaén 1,8
+Pontevedra 14,2 Zamora 1,8
+Teruel 15,3 Tarragona 1,9
+Cuenca 15,3 Teruel 1,9
+León 16,2 León 1,9
+La Coruña 16,8 Lugo 2,1
+Cáceres 17,2 Salamanca 2,2
+Albacete 17,5 Rioja (La) 2,2
+Badajoz 17,6 Soria 2,2
+Salamanca 18,1 Huelva 2,3
+Palencia 18,3 Cáceres 2,6
+Ávila 18,5 Santa Cruz de Tenerife 2,8
+Soria 19,0 Castellón 2,8
+Navarra (C. Foral de) 19,2 Ciudad Real 3,1
+Ciudad Real 19,7 Huesca 3,1
+Jaén 19,8 Valencia 3,2
+Guipúzcoa 20,2 Cantabria 3,3
+Huesca 20,5 Badajoz 3,3
+Segovia 20,6 Granada 3,3
+Burgos 20,7 Cádiz 3,5
+Álava 21,6 Lleida 3,5
+Vizcaya 21,9 La Coruña 3,6
+Valladolid 22,8 Albacete 3,6
+Baleares (Islas) 22,9 Cuenca 3,7
+Zaragoza 23,5 Las Palmas 3,8
+Santa Cruz de Tenerife 23,9 Asturias (Principado de) 3,8
+Asturias (Principado de) 24,1 Murcia (Región de) 3,9
+Rioja (La) 24,4 Gerona 4,0
+Cantabria 24,8 Palencia 4,4
+Córdoba 25,0 Córdoba 4,5
+Barcelona 25,2 Zaragoza 4,6
+Lleida 25,4 Burgos 4,6
+Nacional 25,5 Toledo 4,6
+Huelva 25,6 Vizcaya 4,7
+Las Palmas 26,0 Nacional 4,8
+Sevilla 26,2 Pontevedra 4,8
+Granada 26,3 Guipúzcoa 4,8
+Madrid (Comunidad de) 27,1 Barcelona 4,9
+Cádiz 27,2 Baleares (Islas) 5,0
+Guadalajara 27,5 Segovia 5,3
+Valencia 27,6 Alicante 5,5
+Gerona 28,3 Álava 5,5
+Toledo 28,9 Madrid (Comunidad de) 6,2
+Tarragona 29,7 Almería 6,4
+Castellón 30,0 Navarra (C. Foral de) 7,0
+Murcia (Región de) 31,1 Málaga 8,9
+Almería 33,0 Guadalajara 9,7
+Málaga 36,8 Valladolid 10,2
+Alicante 41,3 Sevilla 13,0
+Compraventas en el último año móvil hasta el 1T 2024 Visados aprobados en el último año hasta mayo (último dato disponible)
+Fuente: Mivau Fuente: Mivau
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 31
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+INFORME 1ER TRIMESTRE 2025
+6 · NOTAS METODOLÓGICAS
+Las series IMIE Mercados Locales se obtienen de la información procedente de las bases de datos de Tinsa que, con un histórico de más de 6
+millones de registros de valoración, representan más del 25% de las valoraciones anuales que se realizan en España . Se trata, con diferencia,
+de la base de datos más extensa del sector. Los datos son recogidos a diario por un grupo de más de 1.000 técnicos específicamente cuali-
+ficados (Arquitectos y Arquitectos Técnicos) distribuidos por la totalidad del mercado español. Por lo tanto, el rigor con el que dichos datos
+son recogidos dista mucho del contenido en otras fuentes, alimentadas por personal no experto.
+Las valoraciones se realizan conforme a la normativa del Banco de España establecida en la legislación vigente (Orden ECO 805/2003 de 27
+de marzo a partir de octubre de 2003 y Real Decreto 775/1997 de 30 de mayo para los datos de la serie previos a dicha fecha). Los informes de
+valoración se completan a través de una aplicación informática específicamente desarrollada por la compañía, que permite capturar y con-
+solidar los datos recogidos en los informes de manera reglada, facilitando su explotación a posteriori de manera homogénea y recurrente.
+Cada informe recibido pasa un exhaustivo control de calidad con carácter previo a su envío al cliente, llevado a cabo por un equipo de más
+de 80 técnicos con amplia experiencia en el tipo de inmueble revisado.
+La metodología de cálculo es similar a la empleada en el IMIE General y Grandes Mercados. Sus características principales son las siguientes:
+• Variable objeto de medición: el valor por metro cuadrado construido de vivienda libre terminada.
+• Frecuencia: trimestral.
+• Ámbito geográfico: el conjunto del Estado español.
+• Población: todas las tasaciones de vivienda libre terminada realizadas por Tinsa a través del método de comparación y con finalidad
+hipotecaria.
+En cuanto a la clasificación de los productos, se ha llevado a cabo atendiendo a las dos características principales de los inmuebles, represen-
+tadas por su ubicación y tipología. La depuración de la muestra se realiza agrupando los inmuebles por periodo, nivel geográfico y tipología
+de vivienda, eliminando los valores extremos de cada conjunto resultante de acuerdo con un criterio multivariante que contempla el valor
+unitario, la superficie y las características del inmueble.
+La metodología de cálculo del IMIE consiste en la aplicación de medias móviles ponderadas con estratificación. Para preparar el cálculo, una
+vez depurada la muestra, se estudia la distribución del parque de viviendas según su tipología en los distintos ámbitos geográficos del índice,
+con el objetivo de valorar correctamente la proporción de cada tipo de inmueble. La aplicación de esta estratificación contribuye a detectar
+cambios en la composición del mercado y reduce el sesgo de selección de la muestra.
+La ponderación aplicada utiliza los datos históricos para suavizar el comportamiento presente con el comportamiento pasado, otorgando
+más peso al presente para que prime la influencia de las nuevas tendencias.
+La ventana temporal aplicada en cada serie se determina en función del tamaño de la muestra, que está asociado al dinamismo del mercado
+en cada agregación territorial. Con ello, se vuelve a priorizar la detección temprana de variaciones en el valor de los inmuebles en aquellos
+mercados más dinámicos, mientras que, en los menos dinámicos, se prioriza la estabilidad del índice.
+C/ José Echegaray 9. Parque Empresarial Las Rozas. 28232 MADRID | www.tinsa.es | 913 364 336 32
+
+--- PÁGINA {} ---
+
+MERCADOS LOCALES
+serviciodeestudios@tinsa.es
+José Echegaray, 9
+Parque empresarial
+28232-Las Rozas (MADRID)
+(+34) 91 336 43 36
