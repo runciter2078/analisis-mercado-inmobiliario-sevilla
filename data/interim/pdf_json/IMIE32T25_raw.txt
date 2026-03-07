@@ -1,0 +1,85 @@
+{
+  "report_id": null,
+  "report_period": "3T 2025",
+  "seville_city": {
+    "price_eur_m2": 2414,
+    "yoy_change_pct": 12.4,
+    "trend": "subida",
+    "key_drivers": [],
+    "risks": [],
+    "outlook": null
+  },
+  "districts": [
+    {
+      "district_name": "Casco Antiguo",
+      "price_eur_m2": 3477,
+      "yoy_change_pct": 12.3,
+      "notes": null
+    },
+    {
+      "district_name": "Macarena",
+      "price_eur_m2": 1916,
+      "yoy_change_pct": 10.4,
+      "notes": null
+    },
+    {
+      "district_name": "Nervión",
+      "price_eur_m2": 3057,
+      "yoy_change_pct": 9.3,
+      "notes": null
+    },
+    {
+      "district_name": "Cerro - Amate",
+      "price_eur_m2": 1394,
+      "yoy_change_pct": 7.6,
+      "notes": null
+    },
+    {
+      "district_name": "Sur",
+      "price_eur_m2": 2259,
+      "yoy_change_pct": -0.6,
+      "notes": null
+    },
+    {
+      "district_name": "Triana",
+      "price_eur_m2": 2977,
+      "yoy_change_pct": 10.5,
+      "notes": null
+    },
+    {
+      "district_name": "Norte",
+      "price_eur_m2": 1792,
+      "yoy_change_pct": 11.2,
+      "notes": null
+    },
+    {
+      "district_name": "San Pablo - Santa Justa",
+      "price_eur_m2": 2269,
+      "yoy_change_pct": 13.7,
+      "notes": null
+    },
+    {
+      "district_name": "Este-Alcosa-Torreblanca",
+      "price_eur_m2": 1905,
+      "yoy_change_pct": 8.8,
+      "notes": null
+    },
+    {
+      "district_name": "Bellavista - La Palmera",
+      "price_eur_m2": 2273,
+      "yoy_change_pct": 8.9,
+      "notes": null
+    },
+    {
+      "district_name": "Los Remedios",
+      "price_eur_m2": 3079,
+      "yoy_change_pct": 6.8,
+      "notes": null
+    }
+  ],
+  "macro_context": {
+    "national_price_eur_m2": 2018,
+    "national_yoy_change_pct": 11.7,
+    "notes": null
+  }
+}
