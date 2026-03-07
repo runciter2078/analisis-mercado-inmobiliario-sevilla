@@ -21,7 +21,7 @@ La separación permite auditar cada fase de forma independiente: los textos inte
 
 El prompt está versionado en `prompts/pdf_extraction_prompt_v1.txt` e incluye instrucciones explícitas anti-alucinación: "extrae SOLO lo que aparezca en el documento; si un campo no existe, devuelve null". Esta decisión de diseño es deliberada para garantizar trazabilidad y evitar que el modelo infiera datos no presentes en los PDFs.
 
-**Limitación:** Las tablas de distritos no eran extraíbles en formato tabular limpio por `pdfplumber`, pero los valores numéricos sí estaban presentes en el texto plano del PDF. Claude API los identificó y estructuró correctamente. La extracción se validó manualmente contra la tabla original del informe (11/11 coincidencias en `IMIE4T2025.pdf`, p. 24). La transcripción manual actuó como validación independiente, no como fuente alternativa.
+**Limitación:** Las tablas de distritos en los PDFs TINSA (página 24 de cada informe) estaban renderizadas como imagen. `pdfplumber` no capturaba los valores numéricos. Los 44 valores del panel (11 distritos × 4 trimestres) se transcribieron manualmente desde los PDFs, con la fuente citada explícitamente en cada registro del CSV (`source`: informe y página). Claude API se utilizó para extraer y estructurar el contenido **narrativo** de los informes, no los datos tabulares.
 
 Los campos de "drivers" del mercado aparecen vacíos o nulos en la mayoría de informes porque los PDFs TINSA Sevilla no los detallan de forma estructurada; el pipeline los captura correctamente como null en lugar de inferirlos.
 
