@@ -1,9 +1,9 @@
 # Análisis del Mercado Inmobiliario de Sevilla
 ### Prueba técnica · Grupo Insur · Marzo 2026
 
-Análisis end-to-end del mercado residencial de Sevilla que combina **extracción GenAI de informes sectoriales** con **ML clásico** (clustering de distritos y forecasting de precios). El proyecto demuestra cómo ambas capas se complementan para un problema real de negocio inmobiliario: la GenAI extrae y estructura información cualitativa que el ML no puede procesar directamente; el ML produce segmentaciones y previsiones cuantitativas que los informes narrativos no ofrecen.
+Análisis end-to-end del mercado residencial de Sevilla combinando **extracción GenAI de informes sectoriales** y **ML clásico** (clustering de distritos y forecasting de precios).
 
-Todos los datos son **públicos y verificables** (MIVAU, TINSA). La capa GenAI es **auditable**: los prompts están versionados y las respuestas raw de la API están guardadas en `data/interim/pdf_json/`.
+Todos los datos son **públicos y verificables** (MIVAU, TINSA). Los prompts están versionados y las respuestas raw de la API guardadas en `data/interim/pdf_json/` para auditoría.
 
 ---
 
@@ -77,25 +77,25 @@ Todos los datos son **públicos y verificables** (MIVAU, TINSA). La capa GenAI e
 Los scripts se ejecutan en orden desde la raíz del proyecto:
 
 ```bash
-# 1. Extraer serie histórica de precio (MIVAU XLS → CSV)
+# 1. Serie histórica MIVAU (XLS → CSV)
 python scripts/01_ingest_mivau_xls.py
 
-# 2. Extraer texto de los PDFs TINSA (pdfplumber → TXT)
+# 2. Extraer texto de los PDFs TINSA
 python scripts/02_extract_tinsa_pdfs.py
 
-# 3a. Estructurar texto con Claude API (TXT → JSON)
+# 3a. Estructurar texto con Claude API (→ JSON)
 python scripts/03_extract_tinsa_genai.py
 
 # 3b. Construir features de distritos para clustering
 python scripts/03_build_district_features.py
 
-# 4. K-Means clustering de distritos (k=4, con stability check)
+# 4. K-Means clustering (k=4, stability check)
 python scripts/04_clustering.py
 
-# 5. Forecasting SARIMA + Prophet (evaluación + proyección 6T)
+# 5. Forecasting SARIMA + Prophet
 python scripts/05_forecasting.py
 
-# 6. Generar dashboard HTML estático
+# 6. Generar dashboard HTML
 python scripts/06_build_dashboard.py
 ```
 
@@ -112,16 +112,10 @@ pip install -r requirements.txt
 **Variable de entorno necesaria** para el script GenAI (paso 3a):
 
 ```bash
-# Windows
 set ANTHROPIC_API_KEY=sk-ant-...
-
-# Linux / macOS
-export ANTHROPIC_API_KEY=sk-ant-...
 ```
 
 Los demás scripts no requieren API key ni conexión a internet.
-
-> **Nota sobre Claude Code:** Claude Code se utilizó como herramienta de apoyo al desarrollo durante la construcción del pipeline. El log de sesiones y decisiones tomadas con su asistencia está en `docs/claude_code_log.md`.
 
 ---
 
