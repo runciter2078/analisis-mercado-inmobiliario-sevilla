@@ -29,7 +29,7 @@
 | `data/raw/pdf_tinsa/tinsa_imie_mercados_locales_4t2025.pdf` | 4T 2025 | p. 24 |
 
 **Datos extraídos:** Precio €/m² y variación interanual (%) por distrito de Sevilla.
-**Método de extracción:** Transcripción manual de tablas (renderizadas como imagen en el PDF) + validación cruzada con extracción automática mediante Claude API sobre el texto narrativo circundante.
+**Método de extracción:** Transcripción manual de tablas (renderizadas como imagen en el PDF). Claude API se utilizó para estructurar el contenido narrativo de los informes; los valores tabulares por distrito se verificaron manualmente contra la tabla original del PDF.
 **Uso en el proyecto:** Features de clustering de distritos (scripts 03 y 04)
 
 ---
